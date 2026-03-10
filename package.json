@@ -1,0 +1,29 @@
+{
+  "name": "browser-userscripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal browser userscripts for Violentmonkey/Tampermonkey/Greasemonkey.",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier . --write",
+    "format:check": "prettier . --check",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "precommit:staged": "lint-staged",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.{json,md,yml,yaml}": "prettier --write",
+    "scripts/**/*.js": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "globals": "^15.15.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.3.3",
+    "prettier": "^3.5.3"
+  }
+}
