@@ -9,6 +9,7 @@
     "format:check": "prettier . --check",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "check:buy2day-products": "node tools/check-buy2day-products.mjs",
     "precommit:staged": "lint-staged",
     "prepare": "husky"
   },
