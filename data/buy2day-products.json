@@ -22,7 +22,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 38,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111867,
@@ -889,8 +889,8 @@
       "id": 105458,
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
-      "price": "₨ 24,500",
-      "inStock": false
+      "price": "₨ 27,500",
+      "inStock": true
     },
     {
       "id": 105456,
@@ -925,7 +925,7 @@
       "name": "Philips Digital Air Fryer HD9280 Black",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-hd9280-black/",
       "price": "₨ 55,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 74476,
@@ -2142,8 +2142,8 @@
       "id": 5106,
       "name": "West Point Food Processor Kitchen Robot WF-8815",
       "url": "https://buy2day.pk/product/west-point-food-processor-kitchen-robot-wf-8815/",
-      "price": "₨ 20,500",
-      "inStock": false
+      "price": "₨ 21,000",
+      "inStock": true
     },
     {
       "id": 5096,
@@ -2303,15 +2303,15 @@
       "id": 4525,
       "name": "Alpina Alpina Double Hot plate 1500W SF-6004",
       "url": "https://buy2day.pk/product/alpina-alpina-double-hot-plate-1500w-sf-6004/",
-      "price": "₨ 20,000",
-      "inStock": false
+      "price": "₨ 21,000",
+      "inStock": true
     },
     {
       "id": 4523,
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
-      "price": "₨ 15,000",
-      "inStock": false
+      "price": "₨ 16,000",
+      "inStock": true
     },
     {
       "id": 4517,
