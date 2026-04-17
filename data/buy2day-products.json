@@ -218,7 +218,7 @@
       "name": "Black & Decker Sandwich Maker 2 Slice TS1000",
       "url": "https://buy2day.pk/product/black-decker-sandwich-maker-2-slice-ts2080/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109747,
@@ -659,7 +659,7 @@
       "name": "Black + Decker Blender Grinder BX530",
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx530/",
       "price": "₨ 25,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 106602,
@@ -1988,7 +1988,7 @@
       "id": 8609,
       "name": "Haier Air Conditioner HSU-19LF 1.5 TON – INVERTER only Cool",
       "url": "https://buy2day.pk/product/haier-air-conditioner-hsu-18cf-1-5-ton/",
-      "price": "₨ 142,000",
+      "price": "₨ 135,000",
       "inStock": true
     },
     {
