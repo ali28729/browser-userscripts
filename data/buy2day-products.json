@@ -890,7 +890,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 27,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105456,
@@ -1247,7 +1247,7 @@
       "name": "West Point Ceramic Cooker WF-142",
       "url": "https://buy2day.pk/product/west-point-deluxe-ceramic-cooker-wf-142/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 26737,
@@ -2346,7 +2346,7 @@
       "name": "Alpina Alpina Cool Touch 2 Slice Toaster 800W SF-2506",
       "url": "https://buy2day.pk/product/alpina-alpina-cool-touch-2-slice-toaster-800w-sf-2506/",
       "price": "₨ 14,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4502,
