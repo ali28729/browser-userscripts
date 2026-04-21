@@ -1,8 +1,22 @@
 {
   "source": "https://buy2day.pk/product-category/rewards-points-products/",
   "categoryId": 113,
-  "total": 363,
+  "total": 365,
   "products": [
+    {
+      "id": 112679,
+      "name": "Professional Kitchen Robot 5 in 1 WF-8819",
+      "url": "https://buy2day.pk/product/professional-kitchen-robot-5-in-1-wf-8819/",
+      "price": "₨ 42,000",
+      "inStock": true
+    },
+    {
+      "id": 112678,
+      "name": "West Point Stand Mixer WF-4626",
+      "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
+      "price": "₨ 35,000",
+      "inStock": true
+    },
     {
       "id": 112366,
       "name": "Dawlance 91999 Avente+ IOT Inverter",
@@ -145,10 +159,10 @@
     },
     {
       "id": 110184,
-      "name": "West Point Deluxe Kitchen Robot, Slicer + Shredder + Chopper, WF-500",
+      "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
-      "price": "₨ 15,500",
-      "inStock": false
+      "price": "₨ 22,000",
+      "inStock": true
     },
     {
       "id": 110182,
@@ -953,7 +967,7 @@
       "name": "ELITE AIR FRYER EAF-001",
       "url": "https://buy2day.pk/product/elite-air-fryer-eaf-001/",
       "price": "₨ 46,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 59524,
@@ -1142,7 +1156,7 @@
       "name": "Dawlance Water Dispenser Glass Door RED 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051/",
       "price": "₨ 51,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27915,
@@ -1582,8 +1596,8 @@
       "id": 17134,
       "name": "West Point Professional Slow Juicer WF-5165",
       "url": "https://buy2day.pk/product/west-point-juicer-blender-grinder-wf-5021/",
-      "price": "₨ 28,500",
-      "inStock": false
+      "price": "₨ 30,000",
+      "inStock": true
     },
     {
       "id": 17130,
