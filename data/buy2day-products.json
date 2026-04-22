@@ -1,14 +1,21 @@
 {
   "source": "https://buy2day.pk/product-category/rewards-points-products/",
   "categoryId": 113,
-  "total": 365,
+  "total": 366,
   "products": [
+    {
+      "id": 112686,
+      "name": "Kenwood Air Fryer Digital HFP 52",
+      "url": "https://buy2day.pk/product/kenwood-air-fryer-digital-hfp-52/",
+      "price": "₨ 34,000",
+      "inStock": true
+    },
     {
       "id": 112679,
       "name": "Professional Kitchen Robot 5 in 1 WF-8819",
       "url": "https://buy2day.pk/product/professional-kitchen-robot-5-in-1-wf-8819/",
       "price": "₨ 42,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 112678,
@@ -308,8 +315,8 @@
       "id": 109207,
       "name": "ELITE Electric Ceramic Cooker EEC-006",
       "url": "https://buy2day.pk/product/elite-electric-cooker-eec-006/",
-      "price": "₨ 14,500",
-      "inStock": false
+      "price": "₨ 15,000",
+      "inStock": true
     },
     {
       "id": 109205,
@@ -960,14 +967,14 @@
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 59609,
       "name": "ELITE AIR FRYER EAF-001",
       "url": "https://buy2day.pk/product/elite-air-fryer-eaf-001/",
       "price": "₨ 46,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 59524,
@@ -2156,7 +2163,7 @@
       "id": 5106,
       "name": "West Point Food Processor Kitchen Robot WF-8815",
       "url": "https://buy2day.pk/product/west-point-food-processor-kitchen-robot-wf-8815/",
-      "price": "₨ 21,000",
+      "price": "₨ 21,800",
       "inStock": false
     },
     {
@@ -2318,7 +2325,7 @@
       "name": "Alpina Alpina Double Hot plate 1500W SF-6004",
       "url": "https://buy2day.pk/product/alpina-alpina-double-hot-plate-1500w-sf-6004/",
       "price": "₨ 21,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4523,
