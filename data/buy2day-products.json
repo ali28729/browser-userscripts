@@ -757,7 +757,7 @@
       "name": "Brawl Stars Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/brawl-stars-bed-sheet-single-bed/",
       "price": "₨ 3,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105579,
@@ -841,7 +841,7 @@
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 59609,
@@ -1422,7 +1422,7 @@
       "name": "West Point Induction Cooker WF-143",
       "url": "https://buy2day.pk/product/west-point-induction-cooker-wf-143-2/",
       "price": "₨ 22,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10322,
@@ -1674,7 +1674,7 @@
       "name": "Remington Hair Dryer D3010",
       "url": "https://buy2day.pk/product/remington-hair-dryer-d3010/",
       "price": "₨ 11,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 8581,
@@ -1884,14 +1884,14 @@
       "name": "Alpina Alpina Double Hot plate 1500W SF-6004",
       "url": "https://buy2day.pk/product/alpina-alpina-double-hot-plate-1500w-sf-6004/",
       "price": "₨ 21,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4523,
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
       "price": "₨ 16,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4522,
@@ -1905,7 +1905,7 @@
       "name": "Alpina Alpina Rice Cooker 450W SF-1901",
       "url": "https://buy2day.pk/product/alpina-alpina-rice-cooker-450w-sf-1901/",
       "price": "₨ 13,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4512,
