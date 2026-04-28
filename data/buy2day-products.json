@@ -1,7 +1,7 @@
 {
   "source": "https://buy2day.pk/product-category/rewards-points-products/",
   "categoryId": 113,
-  "total": 300,
+  "total": 299,
   "products": [
     {
       "id": 112764,
@@ -330,13 +330,6 @@
       "name": "Kenwood Electric Kettle ZJP-01",
       "url": "https://buy2day.pk/product/kenwood-electric-kettle-zjp-01/",
       "price": "₨ 13,000",
-      "inStock": true
-    },
-    {
-      "id": 108789,
-      "name": "Hitachi Drum Vacuum Cleaner CV 950",
-      "url": "https://buy2day.pk/product/hitachi-drum-vacuum-cleaner-cv-960/",
-      "price": "₨ 49,000",
       "inStock": true
     },
     {
@@ -785,7 +778,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 27,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105456,
@@ -1023,7 +1016,7 @@
       "name": "Braun MultiQuick  MQ500 (Metal Rod)",
       "url": "https://buy2day.pk/product/braun-multiquick-mq500-metal-rod/",
       "price": "₨ 16,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27522,
@@ -1036,7 +1029,7 @@
       "id": 27513,
       "name": "Hitachi Drum Vacuum Cleaner CV 950",
       "url": "https://buy2day.pk/product/hitachi-drum-vacuum-cleaner-cv-950/",
-      "price": "₨ 48,500",
+      "price": "₨ 49,000",
       "inStock": true
     },
     {
@@ -1359,7 +1352,7 @@
       "name": "Ballarini Roma Fry Pan 18 CM",
       "url": "https://buy2day.pk/product/ballarini-roma-fry-pan-18-cm/",
       "price": "₨ 3,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 11486,
