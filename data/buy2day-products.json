@@ -218,7 +218,7 @@
       "name": "Kenwood Juicer – JEP-02",
       "url": "https://buy2day.pk/product/kenwood-juicer-jep-02/",
       "price": "₨ 21,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109207,
@@ -876,7 +876,7 @@
       "name": "West Point Vacuum Cleaner WF-960",
       "url": "https://buy2day.pk/product/west-point-vacuum-cleaner-wf-960/",
       "price": "₨ 36,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 58735,
@@ -1296,7 +1296,7 @@
       "name": "Alpina Automatic Hand Dryer SF-5067",
       "url": "https://buy2day.pk/product/automatic-hand-dryer/",
       "price": "₨ 21,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 17134,
