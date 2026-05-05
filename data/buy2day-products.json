@@ -449,7 +449,7 @@
       "name": "Philips Digital Air Fryer HD9270",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-hd9270/",
       "price": "₨ 52,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107267,
@@ -778,7 +778,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 27,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1016,7 +1016,7 @@
       "name": "Braun MultiQuick  MQ500 (Metal Rod)",
       "url": "https://buy2day.pk/product/braun-multiquick-mq500-metal-rod/",
       "price": "₨ 16,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27522,
@@ -1296,7 +1296,7 @@
       "name": "Alpina Automatic Hand Dryer SF-5067",
       "url": "https://buy2day.pk/product/automatic-hand-dryer/",
       "price": "₨ 21,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17134,
@@ -1373,7 +1373,7 @@
       "name": "Kenwood Sandwich Maker SMM02",
       "url": "https://buy2day.pk/product/panasonic-sandwich-maker-gw1/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 11441,
@@ -1667,7 +1667,7 @@
       "name": "Remington Hair Dryer D3010",
       "url": "https://buy2day.pk/product/remington-hair-dryer-d3010/",
       "price": "₨ 11,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 8581,
@@ -1814,7 +1814,7 @@
       "name": "Alpina Coffee/ Spice Grinder Black 90 W SF-2814",
       "url": "https://buy2day.pk/product/alpina-alpina-coffee-spice-grinder-black-90-w-sf-2818/",
       "price": "₨ 16,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4569,
@@ -1877,14 +1877,14 @@
       "name": "Alpina Alpina Double Hot plate 1500W SF-6004",
       "url": "https://buy2day.pk/product/alpina-alpina-double-hot-plate-1500w-sf-6004/",
       "price": "₨ 21,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4523,
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
       "price": "₨ 16,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4522,
@@ -1898,7 +1898,7 @@
       "name": "Alpina Alpina Rice Cooker 450W SF-1901",
       "url": "https://buy2day.pk/product/alpina-alpina-rice-cooker-450w-sf-1901/",
       "price": "₨ 13,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4512,
@@ -1940,7 +1940,7 @@
       "name": "Alpina Alpina Hand Mixer 200W SF-1010",
       "url": "https://buy2day.pk/product/alpina-alpina-hand-mixer-200w-sf-1010/",
       "price": "₨ 11,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4488,
