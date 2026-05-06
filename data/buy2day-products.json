@@ -155,7 +155,7 @@
       "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
       "price": "₨ 22,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110166,
@@ -246,7 +246,7 @@
       "name": "Philips Digital Air Fryer NA230",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-na230/",
       "price": "₨ 60,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108869,
@@ -365,7 +365,7 @@
       "name": "Philips Blender Grinder HR2141",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2141/",
       "price": "₨ 18,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108758,
@@ -603,7 +603,7 @@
       "name": "Panasonic Cyclone Bagless Vacuum Cleaner MC-CL603",
       "url": "https://buy2day.pk/product/panasonic-cyclone-bagless-vacuum-cleaner-mc-cl603/",
       "price": "₨ 49,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105920,
@@ -1219,7 +1219,7 @@
       "name": "West Point Charging Cable – USB to Micro – WP332",
       "url": "https://buy2day.pk/product/west-point-charging-cable-wp332/",
       "price": "₨ 1,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 22577,
@@ -1436,7 +1436,7 @@
       "name": "ELITE ESPRESSO MACHINE FULLY AUTOMATIC – EEM-020",
       "url": "https://buy2day.pk/product/elite-espresso-machine-fully-automatic-eem-020/",
       "price": "₨ 55,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10243,
@@ -1456,8 +1456,8 @@
       "id": 10215,
       "name": "Haier Microwave Oven 20 Litre 20MXP6/20MXP7/20MXP8/MBX/20MXP3",
       "url": "https://buy2day.pk/product/haier-microwave-oven-20-litre-20mxp8/",
-      "price": "₨ 22,000",
-      "inStock": false
+      "price": "₨ 20,000",
+      "inStock": true
     },
     {
       "id": 10200,
@@ -1702,7 +1702,7 @@
       "name": "West Point Oven toaster WF-4800",
       "url": "https://buy2day.pk/product/west-point-oven-toaster-kababrotisserie-and-fish-grill-wf-4500rkf/",
       "price": "₨ 37,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5183,
