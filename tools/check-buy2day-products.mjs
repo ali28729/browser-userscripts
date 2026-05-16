@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 
 const SITE_ORIGIN = "https://buy2day.pk";
-const CATEGORY_SLUG = "rewards-points-products";
+const SHOP_URL = `${SITE_ORIGIN}/shop/`;
 const PER_PAGE = 100;
 const DEFAULT_STATE_PATH = path.join("data", "buy2day-products.json");
 const DEFAULT_SUMMARY_PATH = path.join("data", "buy2day-new-products.md");
@@ -11,18 +11,16 @@ const statePath = process.env.BUY2DAY_PRODUCT_STATE_PATH || DEFAULT_STATE_PATH;
 const summaryPath = process.env.BUY2DAY_PRODUCT_SUMMARY_PATH || DEFAULT_SUMMARY_PATH;
 
 const previousState = await readPreviousState(statePath);
-const categoryId = await fetchCategoryId();
-const currentProducts = await fetchProducts(categoryId);
+const currentProducts = await fetchProducts();
 const previousProducts = previousState?.products || [];
 const previousProductIds = new Set(previousProducts.map((product) => product.id));
-const isInitialRun = !previousState;
+const isInitialRun = previousState?.source !== SHOP_URL;
 const newProducts = isInitialRun
   ? []
   : currentProducts.filter((product) => !previousProductIds.has(product.id));
 
 await writeJson(statePath, {
-  source: `${SITE_ORIGIN}/product-category/${CATEGORY_SLUG}/`,
-  categoryId,
+  source: SHOP_URL,
   total: currentProducts.length,
   products: currentProducts,
 });
@@ -41,8 +39,8 @@ if (process.env.GITHUB_STEP_SUMMARY) {
 
 console.log(
   isInitialRun
-    ? `Initialized Buy2Day product snapshot with ${currentProducts.length} products.`
-    : `Found ${newProducts.length} new Buy2Day products out of ${currentProducts.length} current products.`,
+    ? `Initialized Buy2Day product snapshot with ${currentProducts.length} eligible products from shop.`
+    : `Found ${newProducts.length} new Buy2Day products out of ${currentProducts.length} eligible products.`,
 );
 
 async function readPreviousState(filePath) {
@@ -57,26 +55,12 @@ async function readPreviousState(filePath) {
   }
 }
 
-async function fetchCategoryId() {
-  const url = new URL("/wp-json/wp/v2/product_cat", SITE_ORIGIN);
-  url.searchParams.set("slug", CATEGORY_SLUG);
-
-  const categories = await fetchJson(url);
-  const category = categories[0];
-  if (!category?.id) {
-    throw new Error(`Could not find Buy2Day category "${CATEGORY_SLUG}".`);
-  }
-
-  return category.id;
-}
-
-async function fetchProducts(categoryId) {
+async function fetchProducts() {
   const products = [];
   let totalPages = 1;
 
   for (let page = 1; page <= totalPages; page += 1) {
     const url = new URL("/wp-json/wc/store/v1/products", SITE_ORIGIN);
-    url.searchParams.set("category", String(categoryId));
     url.searchParams.set("per_page", String(PER_PAGE));
     url.searchParams.set("page", String(page));
     url.searchParams.set("orderby", "date");
@@ -86,14 +70,22 @@ async function fetchProducts(categoryId) {
     const { data, response } = await fetchJsonWithResponse(url);
     totalPages = Number.parseInt(response.headers.get("x-wp-totalpages") || "1", 10);
 
-    products.push(...data.map(normalizeProduct));
+    products.push(...data.filter(isEligibleApiProduct).map(normalizeProduct));
   }
 
   return products;
 }
 
-async function fetchJson(url) {
-  return (await fetchJsonWithResponse(url)).data;
+function isEligibleApiProduct(product) {
+  const text = [product.name, stripHtml(product.short_description || "")].join(" ").toLowerCase();
+  return !text.includes("installment");
+}
+
+function stripHtml(html) {
+  return html
+    .replace(/<[^>]*>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 async function fetchJsonWithResponse(url) {
@@ -169,7 +161,7 @@ function buildSummary({ currentProducts, newProducts, isInitialRun }) {
     return [
       "# Buy2Day Product Snapshot Initialized",
       "",
-      `Tracked ${currentProducts.length} products in the rewards category.`,
+      `Tracked ${currentProducts.length} eligible products from the shop.`,
       "Future scheduled runs will open an issue when new products appear.",
     ].join("\n");
   }
@@ -178,7 +170,7 @@ function buildSummary({ currentProducts, newProducts, isInitialRun }) {
     return [
       "# No New Buy2Day Products",
       "",
-      `Checked ${currentProducts.length} products in the rewards category.`,
+      `Checked ${currentProducts.length} eligible products in the shop.`,
     ].join("\n");
   }
 
