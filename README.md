@@ -18,7 +18,7 @@ data/
   *.yml                     CI and scheduled automation.
 ```
 
-The files in `tools/` are not browser userscripts. They are repo automation helpers. For example, `scripts/buy2day-product-loader.user.js` changes the Buy2Day page in your browser, while `tools/check-buy2day-products.mjs` runs in Node.js so GitHub Actions can check the catalog on a schedule.
+The files in `tools/` are not browser userscripts. They are repo automation helpers. For example, `scripts/buy2day-product-loader.user.js` enhances the Buy2Day shop page in your browser, while `tools/check-buy2day-products.mjs` runs in Node.js so GitHub Actions can check the full catalog on a schedule.
 
 ## Userscript Installation
 
@@ -28,21 +28,24 @@ The files in `tools/` are not browser userscripts. They are repo automation help
 
 ## Buy2Day Product Loader
 
-Loads in-stock products from Buy2Day rewards pages into one consolidated browser view.
+Loads all eligible in-stock products from Buy2Day into one consolidated browser view.
 
 Context:
 
-- Intended for browsing redeemable in-stock items for Standard Chartered Pakistan credit card rewards.
+- Intended for browsing in-stock items eligible for Standard Chartered Pakistan credit card rewards.
 - Rewards promotion entry page: `https://www.sc.com/pk/promotions/credit-card-rewards/`
 - Script execution targets:
+  - `https://buy2day.pk/shop/*` (full catalog — recommended)
+  - `https://www.buy2day.pk/shop/*`
   - `https://buy2day.pk/product-category/rewards-points-products/*`
   - `https://www.buy2day.pk/product-category/rewards-points-products/*`
 
 Features:
 
--Fetches all catalog pages (per selected WooCommerce sort)
-
+- Fetches all catalog pages (per selected WooCommerce sort)
 - Excludes out-of-stock items
+- Excludes installment-only products (e.g. items marked "installment available")
+- Displays discounted price for sale items; sorts by discounted price
 - Uses Buy2Day’s native sorting
 - Local sort (order, price, name) + client-side search
 - Concurrent loading for speed
@@ -70,7 +73,7 @@ Files:
 How it works:
 
 1. GitHub Actions runs the watcher daily at `05:23 UTC`, or manually from the Actions tab.
-2. The checker reads Buy2Day's public WooCommerce Store API for visible rewards products.
+2. The checker reads Buy2Day's public WooCommerce Store API for all visible shop products, excluding installment-only items.
 3. It compares the current product IDs to `data/buy2day-products.json`.
 4. If new products are found, the workflow opens a GitHub Issue listing them.
 5. The workflow commits the updated snapshot so the next run only reports products added after that point.

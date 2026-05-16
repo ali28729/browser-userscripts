@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Buy2Day Product Loader
 // @namespace    https://github.com/ali28729/browser-userscripts
-// @version      1.2.2
-// @description  Load all in-stock products and add client-side search and sorting.
+// @version      1.3.0
+// @description  Load all eligible in-stock products from Buy2Day — excludes installment-only items, uses discounted price for sale items.
 // @match        https://buy2day.pk/product-category/rewards-points-products/*
 // @match        https://www.buy2day.pk/product-category/rewards-points-products/*
+// @match        https://buy2day.pk/shop/*
+// @match        https://www.buy2day.pk/shop/*
 // @grant        none
 // @run-at       document-idle
 // @updateURL    https://raw.githubusercontent.com/ali28729/browser-userscripts/main/scripts/buy2day-product-loader.user.js
@@ -75,7 +77,7 @@
         return;
       }
 
-      const products = parseInStockProducts(pages);
+      const products = parseEligibleProducts(pages);
       renderProducts(container, products);
       renderControls({
         container,
@@ -99,12 +101,12 @@
     container.classList.add(GRID_CLASS);
     container.innerHTML = `
       <li class="buy2day-loader-message">
-        Loading products from ${pageCount} pages using ${getOrderbyLabel(orderby)}...
+        Loading eligible products from ${pageCount} pages using ${getOrderbyLabel(orderby)}...
       </li>
     `;
 
     if (countText) {
-      countText.textContent = "Loading in-stock products...";
+      countText.textContent = "Loading eligible products...";
     }
   }
 
@@ -121,21 +123,20 @@
     );
   }
 
-  function parseInStockProducts(pages) {
+  function parseEligibleProducts(pages) {
     const parser = new DOMParser();
 
     return pages.flatMap((html) => {
       const doc = parser.parseFromString(html, "text/html");
 
-      return Array.from(doc.querySelectorAll("li.product")).filter(isInStockProduct);
+      return Array.from(doc.querySelectorAll("li.product")).filter(isEligibleProduct);
     });
   }
 
-  function isInStockProduct(product) {
-    return (
-      !product.classList.contains("outofstock") &&
-      !(product.textContent || "").toLowerCase().includes("out of stock")
-    );
+  function isEligibleProduct(product) {
+    if (product.classList.contains("outofstock")) return false;
+    const text = (product.textContent || "").toLowerCase();
+    return !text.includes("out of stock") && !text.includes("installment");
   }
 
   function renderProducts(container, products) {
@@ -166,7 +167,7 @@
 
     if (countText) {
       countText.classList.add(HIDDEN_SITE_CONTROL_CLASS);
-      countText.textContent = `Showing ${container.querySelectorAll("li.product").length} in-stock products`;
+      countText.textContent = `Showing ${container.querySelectorAll("li.product").length} eligible products`;
     }
 
     if (siteOrdering) {
@@ -178,7 +179,7 @@
     panel.innerHTML = `
       <div class="buy2day-loader-summary">
         <strong>${container.querySelectorAll("li.product").length}</strong>
-        <span>in-stock products</span>
+        <span>eligible products</span>
         <small>${totalPages} pages, ${getOrderbyLabel(orderby)}</small>
       </div>
       <div class="buy2day-loader-controls">
@@ -285,7 +286,9 @@
   }
 
   function getProductPrice(product) {
-    const priceText = product.querySelector(".price")?.textContent || "";
+    const salePrice = product.querySelector(".price ins .woocommerce-Price-amount");
+    const anyPrice = product.querySelector(".price .woocommerce-Price-amount");
+    const priceText = (salePrice || anyPrice)?.textContent || "";
     const parsed = Number.parseFloat(priceText.replace(/[^\d.]/g, ""));
 
     return Number.isNaN(parsed) ? 0 : parsed;
@@ -499,6 +502,16 @@
         font-weight: 700 !important;
       }
 
+      ul.products.${GRID_CLASS} li.product .price del {
+        color: #9ca3af !important;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+      }
+
+      ul.products.${GRID_CLASS} li.product .price ins {
+        text-decoration: none !important;
+      }
+
       ul.products.${GRID_CLASS} li.product .button {
         align-self: stretch;
         margin-top: 10px !important;
@@ -604,16 +617,16 @@
     const button = document.createElement("button");
     button.id = BUTTON_ID;
     button.type = "button";
-    button.textContent = "Load In-Stock Products";
+    button.textContent = "Load Eligible Products";
 
     button.addEventListener("click", async () => {
       button.disabled = true;
-      button.textContent = "Loading Products...";
+      button.textContent = "Loading...";
 
       try {
         await loadProducts();
       } finally {
-        button.textContent = "Load In-Stock Products";
+        button.textContent = "Load Eligible Products";
         button.disabled = false;
       }
     });
