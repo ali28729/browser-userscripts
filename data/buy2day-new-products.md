@@ -1,4 +1,3 @@
-# Buy2Day Product Snapshot Initialized
+# No New Buy2Day Products
 
-Tracked 385 eligible products from the shop.
-Future scheduled runs will open an issue when new products appear.
+Checked 385 eligible products in the shop.
