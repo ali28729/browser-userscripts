@@ -392,14 +392,14 @@
       "name": "Braun Hand Blender Set MQ3025/3035",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3025/",
       "price": "₨ 21,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108810,
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
       "price": "₨ 26,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108808,
@@ -756,7 +756,7 @@
       "name": "Panasonic Blender Grinder CP3121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-cp3121/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 107227,
@@ -1952,8 +1952,8 @@
       "id": 11237,
       "name": "West Point Induction Cooker WF-143",
       "url": "https://buy2day.pk/product/west-point-induction-cooker-wf-143-2/",
-      "price": "₨ 22,000",
-      "inStock": false
+      "price": "₨ 22,500",
+      "inStock": true
     },
     {
       "id": 10322,
@@ -2244,7 +2244,7 @@
     },
     {
       "id": 5207,
-      "name": "West Point Oven toaster WF-4800",
+      "name": "West Point Oven toaster WF-4800 (Only for Karachi Delivery)",
       "url": "https://buy2day.pk/product/west-point-oven-toaster-kababrotisserie-and-fish-grill-wf-4500rkf/",
       "price": "₨ 37,500",
       "inStock": false
@@ -2324,7 +2324,7 @@
       "name": "West Point Concealed element, 1.7 Liter (Steel body) WF-6174",
       "url": "https://buy2day.pk/product/west-point-concealed-element-1-7-liter-steel-body-wf-6174/",
       "price": "₨ 10,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5093,
@@ -2436,7 +2436,7 @@
       "name": "Alpina Steam Iron Non-Stick soleplate 1600W SF-3924",
       "url": "https://buy2day.pk/product/alpina-alpina-steam-iron-non-stick-soleplate-1600w-sf-3924/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4531,
