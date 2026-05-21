@@ -84,7 +84,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 38,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111998,
@@ -140,7 +140,7 @@
       "name": "Philips Garment Steamer Iron STE1030",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1030/",
       "price": "₨ 34,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111494,
@@ -448,7 +448,7 @@
       "name": "Philips Blender Grinder HR2141",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2141/",
       "price": "₨ 18,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108758,
@@ -728,7 +728,7 @@
       "name": "Panasonic Light Weight  Dry Iron NI-313 EWT",
       "url": "https://buy2day.pk/product/panasonic-light-weight-dry-iron-ni-313-ewt/",
       "price": "₨ 10,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107263,
@@ -1512,7 +1512,7 @@
       "name": "Alpina Food Processor – SF-4000",
       "url": "https://buy2day.pk/product/alpina-food-processor-sf-4000/",
       "price": "₨ 43,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27915,
@@ -2023,7 +2023,7 @@
       "name": "Kenwood Blender Grinder BLP-15",
       "url": "https://buy2day.pk/product/kenwood-blender-grinder-blp-10/",
       "price": "₨ 17,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 10173,
@@ -2212,7 +2212,7 @@
       "name": "Remington Hair Dryer D3010",
       "url": "https://buy2day.pk/product/remington-hair-dryer-d3010/",
       "price": "₨ 11,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 8581,
@@ -2289,7 +2289,7 @@
       "name": "Remington Shine Therapy PRO S9300 Hair Straightener",
       "url": "https://buy2day.pk/product/west-point-hair-straightner-with-hair-curler-3-in-1-wf-6811/",
       "price": "₨ 28,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5119,
