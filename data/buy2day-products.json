@@ -336,7 +336,7 @@
       "name": "Moulinex Blender Grinder LM-242B28",
       "url": "https://buy2day.pk/product/moulinex-blender-grinder-lm-242b2b/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108827,
@@ -564,9 +564,9 @@
     },
     {
       "id": 108619,
-      "name": "Alpina Blender Grinder 1080",
+      "name": "Alpina Blender Grinder 1008",
       "url": "https://buy2day.pk/product/alpina-blender-grinder-1080-2/",
-      "price": "₨ 10,500",
+      "price": "₨ 13,500",
       "inStock": true
     },
     {
@@ -987,7 +987,7 @@
       "name": "Jaguar Classic Blue EDT 100ml",
       "url": "https://buy2day.pk/product/jaguar-classic-blue-edt-100ml/",
       "price": "₨ 6,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105692,
@@ -2464,7 +2464,7 @@
       "name": "Alpina Panini Grill / Sandwich Press 1000W SF-6021",
       "url": "https://buy2day.pk/product/alpina-alpina-panini-grill-sandwich-press-1000w-sf-6022/",
       "price": "₨ 22,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4517,
