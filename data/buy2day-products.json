@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 387,
+  "total": 383,
   "products": [
     {
       "id": 112764,
@@ -162,13 +162,6 @@
       "url": "https://buy2day.pk/product/elizabeth-arden-red-door-edt-100ml/",
       "price": "₨ 12,000",
       "inStock": true
-    },
-    {
-      "id": 110871,
-      "name": "Moulinex Chopper DPA-810810",
-      "url": "https://buy2day.pk/product/moulinex-chopper-dpa-810810/",
-      "price": "₨ 27,500",
-      "inStock": false
     },
     {
       "id": 110702,
@@ -339,13 +332,6 @@
       "inStock": false
     },
     {
-      "id": 108862,
-      "name": "Moulinex Blender Grinder LM-242B28",
-      "url": "https://buy2day.pk/product/moulinex-blender-grinder-lm-242b2b/",
-      "price": "₨ 20,000",
-      "inStock": false
-    },
-    {
       "id": 108827,
       "name": "Philips Hand Blender HR2535",
       "url": "https://buy2day.pk/product/philips-hand-blender-hr2535/",
@@ -399,7 +385,7 @@
       "name": "Braun Hand Blender Set MQ3025/3035",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3025/",
       "price": "₨ 21,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108810,
@@ -1742,8 +1728,8 @@
       "id": 25910,
       "name": "Braun Multiquick 5 Hand Blender MQ3135",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135/",
-      "price": "₨ 19,750",
-      "inStock": false
+      "price": "₨ 20,750",
+      "inStock": true
     },
     {
       "id": 22832,
@@ -2009,7 +1995,7 @@
       "name": "Panasonic Electric Kettle K301",
       "url": "https://buy2day.pk/product/amica-electric-kettle-k-2011/",
       "price": "₨ 18,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 10183,
@@ -2031,20 +2017,6 @@
       "url": "https://buy2day.pk/product/kenwood-blender-grinder-blp-10/",
       "price": "₨ 18,000",
       "inStock": true
-    },
-    {
-      "id": 10173,
-      "name": "Kenwood Chopper CH-250",
-      "url": "https://buy2day.pk/product/kenwood-chopper-ch-250/",
-      "price": "₨ 21,500",
-      "inStock": false
-    },
-    {
-      "id": 10171,
-      "name": "Kenwood Citrus Juicer JE-280",
-      "url": "https://buy2day.pk/product/kenwood-citrus-juicer-je-280/",
-      "price": "₨ 11,000",
-      "inStock": false
     },
     {
       "id": 10164,
@@ -2079,7 +2051,7 @@
       "name": "Black + Decker Coffee Maker DCM-750",
       "url": "https://buy2day.pk/product/black-decker-coffee-maker-dcm-750/",
       "price": "₨ 17,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 9340,
@@ -2163,7 +2135,7 @@
       "name": "Panasonic Electric Kettle K101",
       "url": "https://buy2day.pk/product/panasonic-electric-kettle-k101/",
       "price": "₨ 14,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 8616,
@@ -2443,7 +2415,7 @@
       "name": "Alpina Steam Iron Non-Stick soleplate 1600W SF-3924",
       "url": "https://buy2day.pk/product/alpina-alpina-steam-iron-non-stick-soleplate-1600w-sf-3924/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4531,
@@ -2471,7 +2443,7 @@
       "name": "Alpina Panini Grill / Sandwich Press 1000W SF-6021",
       "url": "https://buy2day.pk/product/alpina-alpina-panini-grill-sandwich-press-1000w-sf-6022/",
       "price": "₨ 22,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4517,
@@ -2500,13 +2472,6 @@
       "url": "https://buy2day.pk/product/alpina-alpina-jumbo-sandwich-maker-black-colour-sf-2502/",
       "price": "₨ 19,000",
       "inStock": true
-    },
-    {
-      "id": 4504,
-      "name": "Black + Decker 2 Slice Toaster TO-800",
-      "url": "https://buy2day.pk/product/alpina-alpina-2-slices-s-toaster-s-s-1000w-sf-2507/",
-      "price": "₨ 12,000",
-      "inStock": false
     },
     {
       "id": 4503,
@@ -2597,6 +2562,13 @@
       "name": "Dingling Trimmer Model RF-607D",
       "url": "https://buy2day.pk/product/dingling-trimmer-model-rf-607d/",
       "price": "₨ 8,500",
+      "inStock": true
+    },
+    {
+      "id": 3932,
+      "name": "Dingling Trimmer Model RF-607",
+      "url": "https://buy2day.pk/product/dingling-trimmer-model-rf-607/",
+      "price": "₨ 7,500",
       "inStock": true
     },
     {
