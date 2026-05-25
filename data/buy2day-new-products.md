@@ -1,3 +1,3 @@
-# 1 New Buy2Day Product
+# No New Buy2Day Products
 
-- [Dingling Trimmer Model RF-607](https://buy2day.pk/product/dingling-trimmer-model-rf-607/) - ₨ 7,500 (in stock)
+Checked 383 eligible products in the shop.

@@ -42,7 +42,7 @@
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
       "price": "₨ 35,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 112466,
@@ -84,7 +84,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 38,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111998,
@@ -1946,7 +1946,7 @@
       "name": "West Point Induction Cooker WF-143",
       "url": "https://buy2day.pk/product/west-point-induction-cooker-wf-143-2/",
       "price": "₨ 22,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10322,
@@ -2176,7 +2176,7 @@
       "id": 8609,
       "name": "Haier Air Conditioner HSU-19LF 1.5 TON – INVERTER only Cool",
       "url": "https://buy2day.pk/product/haier-air-conditioner-hsu-18cf-1-5-ton/",
-      "price": "₨ 135,000",
+      "price": "₨ 140,000",
       "inStock": true
     },
     {
@@ -2408,7 +2408,7 @@
       "name": "Alpina Alpina Full Function Steam Iron (Auto Shut-off) SF-1304",
       "url": "https://buy2day.pk/product/alpina-alpina-full-function-steam-iron-auto-shut-off-sf-1304/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4532,
@@ -2478,7 +2478,7 @@
       "name": "Alpina Alpina Cool Touch 2 Slice Toaster 800W SF-2506",
       "url": "https://buy2day.pk/product/alpina-alpina-cool-touch-2-slice-toaster-800w-sf-2506/",
       "price": "₨ 14,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4502,
