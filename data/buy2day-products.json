@@ -182,7 +182,7 @@
       "name": "Elizabeth Arden 5th Avenue EDT 125ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-5th-avenue-edt-125ml/",
       "price": "₨ 11,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110363,
@@ -209,8 +209,8 @@
       "id": 110184,
       "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
-      "price": "₨ 22,000",
-      "inStock": false
+      "price": "₨ 23,800",
+      "inStock": true
     },
     {
       "id": 110166,
@@ -1949,6 +1949,13 @@
       "inStock": false
     },
     {
+      "id": 10325,
+      "name": "Haier Washing Machine Twin Tub HWM-120AS",
+      "url": "https://buy2day.pk/product/haier-washing-machine-twin-tub-hwm-120as/",
+      "price": "₨ 60,000",
+      "inStock": true
+    },
+    {
       "id": 10322,
       "name": "Dawlance Water Dispenser Glass Door 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-1051/",
@@ -2295,8 +2302,8 @@
       "id": 5106,
       "name": "West Point Food Processor Kitchen Robot WF-8815",
       "url": "https://buy2day.pk/product/west-point-food-processor-kitchen-robot-wf-8815/",
-      "price": "₨ 21,800",
-      "inStock": false
+      "price": "₨ 23,200",
+      "inStock": true
     },
     {
       "id": 5096,
@@ -2324,13 +2331,6 @@
       "name": "West Point Concealed element, 1 Liter (Steel body) WF-410",
       "url": "https://buy2day.pk/product/west-point-concealed-element-1-liter-steel-body-wf-410/",
       "price": "₨ 7,000",
-      "inStock": false
-    },
-    {
-      "id": 5076,
-      "name": "West Point Blender WF-738/1/2/949/1/2",
-      "url": "https://buy2day.pk/product/west-point-blender-wf-738-1-2-949-1-2/",
-      "price": "₨ 9,000",
       "inStock": false
     },
     {
@@ -2457,7 +2457,7 @@
       "name": "Alpina Alpina S.S Deep Fryer 3.1 Ltr 2000W SF-4003",
       "url": "https://buy2day.pk/product/alpina-alpina-s-s-deep-fryer-3-1-ltr-2000w-sf-4003/",
       "price": "₨ 26,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4511,
