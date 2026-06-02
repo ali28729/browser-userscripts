@@ -1505,7 +1505,7 @@
       "name": "Alpina Food Processor – SF-4000",
       "url": "https://buy2day.pk/product/alpina-food-processor-sf-4000/",
       "price": "₨ 43,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27915,
@@ -1778,7 +1778,7 @@
       "name": "Gree Air Conditioner 1.5 Ton Inverter Hot & Cold -GS-18PITH11W",
       "url": "https://buy2day.pk/product/gree-air-conditioner-1-5-ton-inverter-hot-cold-gs-18pith11w/",
       "price": "₨ 176,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17344,
