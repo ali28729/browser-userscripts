@@ -412,7 +412,7 @@
       "id": 108785,
       "name": "Panasonic Juicer MJ SJ01",
       "url": "https://buy2day.pk/product/panasonic-juicer-dj01/",
-      "price": "₨ 36,500",
+      "price": "₨ 38,500",
       "inStock": true
     },
     {
@@ -952,7 +952,7 @@
       "name": "Davidoff Cool Water Woman EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-cool-water-woman-edt-50ml/",
       "price": "₨ 10,900",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105696,
@@ -1077,8 +1077,8 @@
       "id": 105458,
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
-      "price": "₨ 27,500",
-      "inStock": false
+      "price": "₨ 29,000",
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1134,7 +1134,7 @@
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 59609,
@@ -2155,7 +2155,7 @@
       "id": 8613,
       "name": "Panasonic Juicer MJ DJ01",
       "url": "https://buy2day.pk/product/panasonic-juicer-mj-dj01/",
-      "price": "₨ 40,500",
+      "price": "₨ 43,000",
       "inStock": true
     },
     {
