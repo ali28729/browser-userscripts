@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 382,
+  "total": 383,
   "products": [
     {
       "id": 113323,
@@ -182,7 +182,7 @@
       "name": "Hugo Boss Green EDT 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-green-edt-75ml/",
       "price": "₨ 11,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110365,
@@ -252,7 +252,7 @@
       "name": "Harry Porter Carton Sheet Single bed – Assorted Design",
       "url": "https://buy2day.pk/product/harry-porter-carton-sheet-single-bed-assorted-design/",
       "price": "₨ 3,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109614,
@@ -955,6 +955,13 @@
       "inStock": true
     },
     {
+      "id": 105745,
+      "name": "West Point Meat mincer WF-3040",
+      "url": "https://buy2day.pk/product/west-point-meat-mincer-wf-3040/",
+      "price": "₨ 23,000",
+      "inStock": false
+    },
+    {
       "id": 105697,
       "name": "Davidoff Cool Water Woman EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-cool-water-woman-edt-50ml/",
@@ -1085,7 +1092,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 29,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105456,
@@ -1105,7 +1112,7 @@
       "id": 74962,
       "name": "Philips One blade 1 QP210",
       "url": "https://buy2day.pk/product/philips-one-blade-1-qp210/",
-      "price": "₨ 5,500",
+      "price": "₨ 6,500",
       "inStock": true
     },
     {
@@ -1778,7 +1785,7 @@
       "name": "Gree Air Conditioner 1.5 Ton Inverter Hot & Cold -GS-18PITH11W",
       "url": "https://buy2day.pk/product/gree-air-conditioner-1-5-ton-inverter-hot-cold-gs-18pith11w/",
       "price": "₨ 176,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17344,
