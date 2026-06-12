@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 383,
+  "total": 382,
   "products": [
     {
       "id": 113323,
@@ -2611,13 +2611,6 @@
       "name": "Philips Shaver S1121",
       "url": "https://buy2day.pk/product/philips-shaver-at610-14/",
       "price": "₨ 12,000",
-      "inStock": true
-    },
-    {
-      "id": 1683,
-      "name": "Philips Hair Straightner HP8301/00",
-      "url": "https://buy2day.pk/product/philips-hair-straightner-hp8301-00/",
-      "price": "₨ 8,500",
       "inStock": true
     },
     {
