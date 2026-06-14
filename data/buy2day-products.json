@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 381,
+  "total": 379,
   "products": [
+    {
+      "id": 113387,
+      "name": "Haier Air Conditioner HSU-19HFC 1.5 TON Inverter Hot and Cold",
+      "url": "https://buy2day.pk/product/haier-air-conditioner-hsu-19hfc-1-5-ton-inverter-hot-and-cold/",
+      "price": "₨ 150,000",
+      "inStock": true
+    },
     {
       "id": 113323,
       "name": "Haier Air Conditioner Floor Standing Inverter – 2 TON – 24HE/WSDC – only Karachi Delivery",
@@ -48,8 +55,8 @@
       "id": 112678,
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
-      "price": "₨ 35,000",
-      "inStock": false
+      "price": "₨ 36,000",
+      "inStock": true
     },
     {
       "id": 112466,
@@ -252,7 +259,7 @@
       "name": "Harry Porter Carton Sheet Single bed – Assorted Design",
       "url": "https://buy2day.pk/product/harry-porter-carton-sheet-single-bed-assorted-design/",
       "price": "₨ 3,950",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 109614,
@@ -307,7 +314,7 @@
       "id": 109201,
       "name": "Kenwood Hard Fruit Juicer JEM-51",
       "url": "https://buy2day.pk/product/kenwood-hard-fruit-juicer-jem-51/",
-      "price": "₨ 36,000",
+      "price": "₨ 38,000",
       "inStock": true
     },
     {
@@ -447,8 +454,8 @@
       "id": 108758,
       "name": "Philips 2000 Series Airfryer NA220",
       "url": "https://buy2day.pk/product/philips-2000-series-airfryer-na220-3/",
-      "price": "₨ 49,000",
-      "inStock": false
+      "price": "₨ 50,000",
+      "inStock": true
     },
     {
       "id": 108677,
@@ -721,7 +728,7 @@
       "name": "Panasonic Light Weight  Dry Iron NI-313 EWT",
       "url": "https://buy2day.pk/product/panasonic-light-weight-dry-iron-ni-313-ewt/",
       "price": "₨ 10,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 107263,
@@ -749,7 +756,7 @@
       "name": "Panasonic Blender Grinder CP3121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-cp3121/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107227,
@@ -1029,7 +1036,7 @@
       "name": "Planet Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/space-dog-bed-sheet-single-bed/",
       "price": "₨ 3,950",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105583,
@@ -1085,7 +1092,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 29,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1161,8 +1168,8 @@
       "id": 59476,
       "name": "HAIER Microwave Oven HMN-45200 ESD",
       "url": "https://buy2day.pk/product/haier-microwave-oven-hmn-45200-esd/",
-      "price": "₨ 49,000",
-      "inStock": false
+      "price": "₨ 50,000",
+      "inStock": true
     },
     {
       "id": 59351,
@@ -1739,20 +1746,6 @@
       "inStock": false
     },
     {
-      "id": 22585,
-      "name": "West Point Charging Cable -USB to Micro- WP333",
-      "url": "https://buy2day.pk/product/west-point-charging-cable-wp333/",
-      "price": "₨ 1,000",
-      "inStock": false
-    },
-    {
-      "id": 22584,
-      "name": "West Point Charging Cable – USB to Micro – WP332",
-      "url": "https://buy2day.pk/product/west-point-charging-cable-wp332/",
-      "price": "₨ 1,000",
-      "inStock": false
-    },
-    {
       "id": 22577,
       "name": "West Point Charging Cable – USB to Lightning-WP303",
       "url": "https://buy2day.pk/product/west-point-charging-cable-wp303/",
@@ -1988,7 +1981,7 @@
       "name": "Haier Microwave Oven 20 Litre 20MXP6/20MXP7/20MXP8/MBX/20MXP3",
       "url": "https://buy2day.pk/product/haier-microwave-oven-20-litre-20mxp8/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 10200,
@@ -2044,13 +2037,6 @@
       "name": "Black + Decker Vacuum Cleaner VM 1680",
       "url": "https://buy2day.pk/product/black-decker-vacuum-cleaner-vm-1480/",
       "price": "₨ 46,500",
-      "inStock": true
-    },
-    {
-      "id": 9346,
-      "name": "Black + Decker Coffee Maker DCM-750",
-      "url": "https://buy2day.pk/product/black-decker-coffee-maker-dcm-750/",
-      "price": "₨ 17,500",
       "inStock": true
     },
     {
@@ -2359,7 +2345,7 @@
       "name": "Black + Decker Grinder CBM4",
       "url": "https://buy2day.pk/product/alpina-alpina-coffee-spice-grinder-white-90-w-sf-2813/",
       "price": "₨ 13,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4568,
@@ -2415,7 +2401,7 @@
       "name": "Alpina Alpina Travel Iron SF-1307",
       "url": "https://buy2day.pk/product/alpina-alpina-travel-iron-830watts-sf-1307/",
       "price": "₨ 11,300",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4525,
