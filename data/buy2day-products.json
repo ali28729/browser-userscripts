@@ -270,10 +270,10 @@
     },
     {
       "id": 109609,
-      "name": "West Point Egg beater WF-9401",
+      "name": "West Point Egg Boiler WF5252",
       "url": "https://buy2day.pk/product/west-point-egg-beater-wf-9401/",
-      "price": "₨ 8,300",
-      "inStock": false
+      "price": "₨ 8,600",
+      "inStock": true
     },
     {
       "id": 109465,
@@ -833,7 +833,7 @@
       "name": "Black + Decker Blender Grinder BX530",
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx530/",
       "price": "₨ 25,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 106611,
