@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 379,
+  "total": 375,
   "products": [
     {
       "id": 113387,
@@ -126,7 +126,7 @@
       "name": "West Point Coffee Maker (New Model)  Expresso WF-2024",
       "url": "https://buy2day.pk/product/west-point-coffee-maker-new-model-wf-2024-2/",
       "price": "₨ 23,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111699,
@@ -942,9 +942,9 @@
     },
     {
       "id": 105823,
-      "name": "UNSQUASHABLE – Squash Racket",
+      "name": "Willson- Squash Racket",
       "url": "https://buy2day.pk/product/unsquashable-squash-racket/",
-      "price": "₨ 15,000",
+      "price": "₨ 16,000",
       "inStock": true
     },
     {
@@ -1046,13 +1046,6 @@
       "inStock": true
     },
     {
-      "id": 105582,
-      "name": "Superman Bed Sheet Single bed",
-      "url": "https://buy2day.pk/product/london-underground-bed-sheet-single-bed/",
-      "price": "₨ 3,950",
-      "inStock": false
-    },
-    {
       "id": 105581,
       "name": "London Underground Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/dragon-ball-super-hero-bed-sheet-single-bed/",
@@ -1060,25 +1053,11 @@
       "inStock": true
     },
     {
-      "id": 105580,
-      "name": "Brawl Stars Bed Sheet Single bed",
-      "url": "https://buy2day.pk/product/brawl-stars-bed-sheet-single-bed/",
-      "price": "₨ 3,950",
-      "inStock": false
-    },
-    {
       "id": 105579,
       "name": "Dragon Ball Z Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/dinosaur-bed-sheet-single-bed/",
       "price": "₨ 3,950",
       "inStock": true
-    },
-    {
-      "id": 105578,
-      "name": "Panda-Eating-Bamboo Bed Sheet Single bed",
-      "url": "https://buy2day.pk/product/panda-eating-bamboo-bed-sheet-single-bed/",
-      "price": "₨ 3,950",
-      "inStock": false
     },
     {
       "id": 105558,
@@ -1134,13 +1113,6 @@
       "name": "Dawlance 91999 Graze+ Gem Black",
       "url": "https://buy2day.pk/product/dawlance-91999-graze-gem-black-2/",
       "price": "₨ 160,000",
-      "inStock": true
-    },
-    {
-      "id": 74191,
-      "name": "Spiderman Bed Sheet Twin Size – Assorted Design",
-      "url": "https://buy2day.pk/product/west-point-ceramic-cooker-wf-152/",
-      "price": "₨ 5,000",
       "inStock": true
     },
     {
@@ -2282,7 +2254,7 @@
       "name": "West Point Food Processor Kitchen Robot WF-8815",
       "url": "https://buy2day.pk/product/west-point-food-processor-kitchen-robot-wf-8815/",
       "price": "₨ 23,200",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5096,
