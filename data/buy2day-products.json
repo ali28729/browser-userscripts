@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 383,
+  "total": 382,
   "products": [
     {
       "id": 113462,
@@ -356,8 +356,8 @@
       "id": 109209,
       "name": "Kenwood Juicer – JEP-02",
       "url": "https://buy2day.pk/product/kenwood-juicer-jep-02/",
-      "price": "₨ 21,500",
-      "inStock": false
+      "price": "₨ 25,500",
+      "inStock": true
     },
     {
       "id": 109207,
@@ -497,7 +497,7 @@
       "name": "Philips Blender Grinder HR2291",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2291/",
       "price": "₨ 22,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108770,
@@ -1015,7 +1015,7 @@
       "name": "West Point Meat mincer WF-3040",
       "url": "https://buy2day.pk/product/west-point-meat-mincer-wf-3040/",
       "price": "₨ 23,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105697,
@@ -1750,7 +1750,7 @@
       "name": "Braun Hand Blender Multiquick 3 MQ3000",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135-2/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 25925,
@@ -1912,13 +1912,6 @@
       "url": "https://buy2day.pk/product/kaliz-facial-steamer-4-in-1/",
       "price": "₨ 2,500",
       "inStock": true
-    },
-    {
-      "id": 11469,
-      "name": "Kenwood Sandwich Maker SMM02",
-      "url": "https://buy2day.pk/product/panasonic-sandwich-maker-gw1/",
-      "price": "₨ 20,000",
-      "inStock": false
     },
     {
       "id": 11441,
@@ -2373,7 +2366,7 @@
       "name": "Black + Decker Grinder CBM4",
       "url": "https://buy2day.pk/product/alpina-alpina-coffee-spice-grinder-white-90-w-sf-2813/",
       "price": "₨ 13,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4568,
@@ -2506,7 +2499,7 @@
       "name": "Alpina Alpina Juicer Extractor 400 W SF-3008",
       "url": "https://buy2day.pk/product/alpina-alpina-juicer-extractor-400-w-sf-3008/",
       "price": "₨ 17,800",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4486,
