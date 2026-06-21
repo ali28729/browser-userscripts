@@ -102,10 +102,10 @@
     },
     {
       "id": 112680,
-      "name": "West Point Professional Blender and Grinder WF-372",
+      "name": "West Point Deluxe Nutri Blast WF-449",
       "url": "https://buy2day.pk/product/professional-blender-and-grinder-wf-372/",
-      "price": "₨ 12,500",
-      "inStock": false
+      "price": "₨ 23,000",
+      "inStock": true
     },
     {
       "id": 112678,
@@ -276,6 +276,13 @@
       "inStock": true
     },
     {
+      "id": 110252,
+      "name": "West Point Water Dispenser, No-Fridge WF1401",
+      "url": "https://buy2day.pk/product/panasonic-water-dispenser-stainless-steel-hot-water-tank-hot-normal-and-cold-water-sdm-wd-3128tg/",
+      "price": "₨ 43,000",
+      "inStock": false
+    },
+    {
       "id": 110184,
       "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
@@ -329,7 +336,7 @@
       "name": "West Point Egg Boiler WF5252",
       "url": "https://buy2day.pk/product/west-point-egg-beater-wf-9401/",
       "price": "₨ 8,600",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109465,
@@ -378,7 +385,7 @@
       "name": "Braun MultiQuick 7 Hand blender MQ 7075",
       "url": "https://buy2day.pk/product/braun-multiquick-7-hand-blender-mq-7075/",
       "price": "₨ 38,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108872,
@@ -490,13 +497,6 @@
       "name": "Philips Blender Grinder HR2222",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2222-2/",
       "price": "₨ 25,000",
-      "inStock": true
-    },
-    {
-      "id": 108772,
-      "name": "Philips Blender Grinder HR2291",
-      "url": "https://buy2day.pk/product/philips-blender-grinder-hr2291/",
-      "price": "₨ 22,500",
       "inStock": true
     },
     {
@@ -1155,7 +1155,7 @@
       "name": "Dawlance Water Dispenser Glass Door  Silver 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051-2/",
       "price": "₨ 50,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 74690,
@@ -1883,7 +1883,7 @@
       "name": "Braun Hand Blender Set MQ3048",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3048/",
       "price": "₨ 29,900",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 11549,

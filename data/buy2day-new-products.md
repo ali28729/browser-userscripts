@@ -1,3 +1,3 @@
-# No New Buy2Day Products
+# 1 New Buy2Day Product
 
-Checked 382 eligible products in the shop.
+- [West Point Water Dispenser, No-Fridge WF1401](https://buy2day.pk/product/panasonic-water-dispenser-stainless-steel-hot-water-tank-hot-normal-and-cold-water-sdm-wd-3128tg/) - ₨ 43,000 (out of stock)
