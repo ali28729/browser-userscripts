@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 382,
+  "total": 393,
   "products": [
+    {
+      "id": 113525,
+      "name": "West Point Professional Handy Garment Steamer WF-1253",
+      "url": "https://buy2day.pk/product/west-point-professional-handy-garment-steamer-wf-1253/",
+      "price": "₨ 11,500",
+      "inStock": true
+    },
     {
       "id": 113462,
       "name": "Kids Ben 10 Cartoon Bed Sheet Single bed",
@@ -105,6 +112,13 @@
       "name": "West Point Deluxe Nutri Blast WF-449",
       "url": "https://buy2day.pk/product/professional-blender-and-grinder-wf-372/",
       "price": "₨ 23,000",
+      "inStock": true
+    },
+    {
+      "id": 112679,
+      "name": "West Point Professional Kitchen Robot WF-506",
+      "url": "https://buy2day.pk/product/professional-kitchen-robot-5-in-1-wf-8819/",
+      "price": "₨ 19,000",
       "inStock": true
     },
     {
@@ -234,6 +248,27 @@
       "inStock": true
     },
     {
+      "id": 111162,
+      "name": "West Point Deluxe Bath Scale WF-8605/8607",
+      "url": "https://buy2day.pk/product/west-point-ear-phone-3-5mm-wp-421/",
+      "price": "₨ 6,000",
+      "inStock": true
+    },
+    {
+      "id": 111160,
+      "name": "West Point Deluxe Roti Maker WF-6514T",
+      "url": "https://buy2day.pk/product/west-point-ear-phone-type-c-wp-432/",
+      "price": "₨ 18,500",
+      "inStock": true
+    },
+    {
+      "id": 111158,
+      "name": "West Point Deluxe Dough Maker WF-3616",
+      "url": "https://buy2day.pk/product/west-point-power-bank-wp2000/",
+      "price": "₨ 22,000",
+      "inStock": true
+    },
+    {
       "id": 110702,
       "name": "Black & Decker Sandwich Grill  + Waffle G2",
       "url": "https://buy2day.pk/product/black-decker-sandwich-grill-waffle-g2/",
@@ -283,6 +318,13 @@
       "inStock": false
     },
     {
+      "id": 110186,
+      "name": "West Point Deluxe Bottle Warmer WF-209",
+      "url": "https://buy2day.pk/product/westpoint-instant-gas-water-heater-wf-0620/",
+      "price": "₨ 7,500",
+      "inStock": true
+    },
+    {
       "id": 110184,
       "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
@@ -294,6 +336,13 @@
       "name": "Panasonic Drum Vacume Cleaner MCYL620",
       "url": "https://buy2day.pk/product/panasonic-drum-vacume-cleaner-mcyl620-2/",
       "price": "₨ 46,000",
+      "inStock": true
+    },
+    {
+      "id": 110162,
+      "name": "West Point Deluxe Bottle Sterilizer WF-329",
+      "url": "https://buy2day.pk/product/west-point-halogen-deluxe-room-heater-1200w-wf-5308/",
+      "price": "₨ 10,500",
       "inStock": true
     },
     {
@@ -1757,7 +1806,7 @@
       "name": "Braun Electric Kettle WK1500",
       "url": "https://buy2day.pk/product/braun-electric-kettle-wk1500/",
       "price": "₨ 18,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 25910,
@@ -2208,6 +2257,13 @@
       "inStock": false
     },
     {
+      "id": 5222,
+      "name": "West Point Deluxe Sandwich Toaster WF-6696",
+      "url": "https://buy2day.pk/product/west-point-new-model-sandwich-maker-steel-body-wf-6697/",
+      "price": "₨ 14,800",
+      "inStock": true
+    },
+    {
       "id": 5217,
       "name": "Braun MultiFry 3 Air Fryer HF 3030 Black",
       "url": "https://buy2day.pk/product/west-point-rechargeable-fan-16-inch-wf-8916/",
@@ -2236,6 +2292,13 @@
       "inStock": false
     },
     {
+      "id": 5189,
+      "name": "West Point Professional Kitchen Robot WF-506/503",
+      "url": "https://buy2day.pk/product/west-point-kitchen-rebort-1000ml-bowl-saftey-interlock-2-speed-wf-501/",
+      "price": "₨ 19,000",
+      "inStock": true
+    },
+    {
       "id": 5183,
       "name": "Black & Decker Sandwich Grill TS53",
       "url": "https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-495/",
@@ -2255,6 +2318,13 @@
       "url": "https://buy2day.pk/product/west-point-iron-wf-84-86b/",
       "price": "₨ 8,500",
       "inStock": false
+    },
+    {
+      "id": 5160,
+      "name": "West Point Deluxe Dry Iron WF-2431",
+      "url": "https://buy2day.pk/product/west-point-dry-iron-midi-weight-black-handle-wf-672/",
+      "price": "₨ 7,500",
+      "inStock": true
     },
     {
       "id": 5159,
@@ -2332,6 +2402,13 @@
       "url": "https://buy2day.pk/product/west-point-concealed-element-1-liter-steel-body-wf-410/",
       "price": "₨ 7,000",
       "inStock": false
+    },
+    {
+      "id": 5077,
+      "name": "West Point Professional Handy Garment Steamer WF-1353",
+      "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
+      "price": "₨ 12,500",
+      "inStock": true
     },
     {
       "id": 4894,
@@ -2471,7 +2548,7 @@
       "name": "Alpina Alpina Jumbo Sandwich Maker BLACK COLOUR SF-2502",
       "url": "https://buy2day.pk/product/alpina-alpina-jumbo-sandwich-maker-black-colour-sf-2502/",
       "price": "₨ 19,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4503,
