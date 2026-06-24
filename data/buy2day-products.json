@@ -384,8 +384,8 @@
       "id": 109609,
       "name": "West Point Egg Boiler WF5252",
       "url": "https://buy2day.pk/product/west-point-egg-beater-wf-9401/",
-      "price": "₨ 8,600",
-      "inStock": false
+      "price": "₨ 8,800",
+      "inStock": true
     },
     {
       "id": 109465,
@@ -1666,7 +1666,7 @@
       "name": "Braun MQ5235 Hand Blender Multiquick Vario",
       "url": "https://buy2day.pk/product/braun-mq5235-hand-blender-multiquick-vario/",
       "price": "₨ 25,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27153,
@@ -1925,7 +1925,7 @@
       "name": "Braun Hand Blender Set MQ3038",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3038/",
       "price": "₨ 29,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 11606,
