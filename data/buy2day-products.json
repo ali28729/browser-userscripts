@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 393,
+  "total": 392,
   "products": [
     {
       "id": 113525,
@@ -168,7 +168,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 39,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111998,
@@ -385,13 +385,6 @@
       "name": "West Point Egg Boiler WF5252",
       "url": "https://buy2day.pk/product/west-point-egg-beater-wf-9401/",
       "price": "₨ 8,800",
-      "inStock": true
-    },
-    {
-      "id": 109465,
-      "name": "Testing sep 2025",
-      "url": "https://buy2day.pk/product/testing-sep-2025/",
-      "price": "₨ 1,000",
       "inStock": true
     },
     {
@@ -1456,7 +1449,7 @@
       "name": "West Point Espresso Coffee Maker WF-2025",
       "url": "https://buy2day.pk/product/west-point-espresso-coffee-maker-wf-2024/",
       "price": "₨ 48,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 58667,
