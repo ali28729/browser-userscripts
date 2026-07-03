@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 392,
+  "total": 391,
   "products": [
     {
       "id": 113525,
@@ -308,7 +308,7 @@
       "name": "Hugo Boss Energies Edt 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-energies-edt-75ml/",
       "price": "₨ 12,750",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110252,
@@ -1000,8 +1000,8 @@
       "id": 105935,
       "name": "Panasonic Cyclone Bagless Vacuum Cleaner MC-CL603",
       "url": "https://buy2day.pk/product/panasonic-cyclone-bagless-vacuum-cleaner-mc-cl603/",
-      "price": "₨ 49,500",
-      "inStock": false
+      "price": "₨ 52,000",
+      "inStock": true
     },
     {
       "id": 105920,
@@ -1198,13 +1198,6 @@
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051-2/",
       "price": "₨ 50,500",
       "inStock": false
-    },
-    {
-      "id": 74690,
-      "name": "Philips Digital Air Fryer HD9280 Black",
-      "url": "https://buy2day.pk/product/philips-digital-air-fryer-hd9280-black/",
-      "price": "₨ 62,000",
-      "inStock": true
     },
     {
       "id": 74476,
@@ -1841,7 +1834,7 @@
       "name": "Gree Air Conditioner 1.5 Ton Inverter Hot & Cold -GS-18PITH11W",
       "url": "https://buy2day.pk/product/gree-air-conditioner-1-5-ton-inverter-hot-cold-gs-18pith11w/",
       "price": "₨ 176,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 17344,
@@ -2338,7 +2331,7 @@
       "name": "Remington Shine Therapy PRO S9300 Hair Straightener",
       "url": "https://buy2day.pk/product/west-point-hair-straightner-with-hair-curler-3-in-1-wf-6811/",
       "price": "₨ 29,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5119,
