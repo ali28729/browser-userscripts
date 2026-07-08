@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 391,
+  "total": 390,
   "products": [
     {
       "id": 113525,
@@ -91,7 +91,7 @@
       "name": "LOL Surprise princess Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/lol-surprise-princess-bed-sheet-single-bed/",
       "price": "₨ 3,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 112703,
@@ -125,7 +125,7 @@
       "id": 112678,
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
-      "price": "₨ 36,000",
+      "price": "₨ 29,500",
       "inStock": true
     },
     {
@@ -301,7 +301,7 @@
       "name": "Jaguar Classic Green EDT 100ml",
       "url": "https://buy2day.pk/product/jaguar-classic-green-edt-100ml/",
       "price": "₨ 6,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110357,
@@ -322,7 +322,7 @@
       "name": "West Point Deluxe Bottle Warmer WF-209",
       "url": "https://buy2day.pk/product/westpoint-instant-gas-water-heater-wf-0620/",
       "price": "₨ 7,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110184,
@@ -346,13 +346,6 @@
       "inStock": true
     },
     {
-      "id": 110139,
-      "name": "West Point Stand Mixer WF-4616",
-      "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4616/",
-      "price": "₨ 29,500",
-      "inStock": true
-    },
-    {
       "id": 110138,
       "name": "West Point Inset Killer WF-7112 (Only for Karachi Delivery)",
       "url": "https://buy2day.pk/product/west-point-inset-killer-wf-7112-only-for-karachi-delivery/",
@@ -364,7 +357,7 @@
       "name": "Black & Decker Sandwich Maker 2 Slice TS1000",
       "url": "https://buy2day.pk/product/black-decker-sandwich-maker-2-slice-ts2080/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109617,
@@ -973,7 +966,7 @@
       "name": "Dawlance Water Dispenser 1060 Silver With Refrigerator",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-1060-silver-with-refrigerator/",
       "price": "₨ 50,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 106029,
@@ -2464,7 +2457,7 @@
       "name": "Alpina Dry Iron (Heavy Duty) 1000-1200W SF-2317",
       "url": "https://buy2day.pk/product/alpina-alpina-dry-iron-heavy-duty-1000-1200w-sf-2317/",
       "price": "₨ 11,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4533,
