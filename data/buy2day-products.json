@@ -861,7 +861,7 @@
       "name": "Dawlance Microwave Oven DW142 HZP",
       "url": "https://buy2day.pk/product/dawlance-microwave-oven-dw142-hzp/",
       "price": "₨ 52,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 107092,
@@ -1441,8 +1441,8 @@
       "id": 58667,
       "name": "Braun Silk’Epil Soft Perfection Epilator, 3170",
       "url": "https://buy2day.pk/product/braun-silkepil-soft-perfection-epilator-3170/",
-      "price": "₨ 12,000",
-      "inStock": false
+      "price": "₨ 12,500",
+      "inStock": true
     },
     {
       "id": 58523,
@@ -2498,7 +2498,7 @@
       "id": 4522,
       "name": "Alpina Panini Grill / Sandwich Press 1000W SF-6021",
       "url": "https://buy2day.pk/product/alpina-alpina-panini-grill-sandwich-press-1000w-sf-6022/",
-      "price": "₨ 22,500",
+      "price": "₨ 24,900",
       "inStock": true
     },
     {
