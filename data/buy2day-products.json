@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 389,
+  "total": 388,
   "products": [
     {
       "id": 113525,
@@ -98,13 +98,6 @@
       "name": "TCL LED 43 inch Model 43T6D",
       "url": "https://buy2day.pk/product/tcl-led-43-inch-model-43t6d/",
       "price": "₨ 106,500",
-      "inStock": true
-    },
-    {
-      "id": 112686,
-      "name": "Kenwood Air Fryer Digital HFP 52",
-      "url": "https://buy2day.pk/product/kenwood-air-fryer-digital-hfp-52/",
-      "price": "₨ 38,000",
       "inStock": true
     },
     {
@@ -378,7 +371,7 @@
       "name": "West Point Egg Boiler WF5252",
       "url": "https://buy2day.pk/product/west-point-egg-beater-wf-9401/",
       "price": "₨ 8,800",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109456,
@@ -1189,8 +1182,8 @@
       "id": 74693,
       "name": "Dawlance Water Dispenser Glass Door  Silver 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051-2/",
-      "price": "₨ 50,500",
-      "inStock": false
+      "price": "₨ 51,500",
+      "inStock": true
     },
     {
       "id": 74476,
@@ -1994,7 +1987,7 @@
       "id": 10322,
       "name": "Dawlance Water Dispenser Glass Door 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-1051/",
-      "price": "₨ 50,500",
+      "price": "₨ 51,500",
       "inStock": true
     },
     {
@@ -2029,8 +2022,8 @@
       "id": 10215,
       "name": "Haier Microwave Oven 20 Litre 20MXP6/20MXP7/20MXP8/MBX/20MXP3",
       "url": "https://buy2day.pk/product/haier-microwave-oven-20-litre-20mxp8/",
-      "price": "₨ 20,000",
-      "inStock": false
+      "price": "₨ 22,000",
+      "inStock": true
     },
     {
       "id": 10200,
