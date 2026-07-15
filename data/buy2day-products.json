@@ -231,7 +231,7 @@
       "name": "Elizabeth Arden Beauty Eau de Parfum 100ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-beauty-eau-de-parfum-100ml/",
       "price": "₨ 10,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111304,
@@ -280,14 +280,14 @@
       "name": "Elizabeth Arden 5th Avenue EDT 125ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-5th-avenue-edt-125ml/",
       "price": "₨ 11,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 110363,
       "name": "Calvin Klein Eternity Men EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-eternity-men-edt-100ml/",
-      "price": "₨ 13,500",
-      "inStock": false
+      "price": "₨ 14,500",
+      "inStock": true
     },
     {
       "id": 110359,
@@ -427,7 +427,7 @@
       "name": "Calvin Klein Free For Man EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-free-for-man-edt-100ml/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108827,
@@ -1050,7 +1050,7 @@
       "name": "Davidoff Cool Water Woman EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-cool-water-woman-edt-50ml/",
       "price": "₨ 10,900",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105696,
@@ -1092,21 +1092,21 @@
       "name": "Davidoff Adventure EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-adventure-edt-100ml/",
       "price": "₨ 10,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105681,
       "name": "Calvin Klein Obsession For Women EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-obsession-for-women-edt-100ml/",
       "price": "₨ 10,950",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105677,
-      "name": "Calvin Klein Obsession For Man EDT 100ml",
+      "name": "Calvin Klein Obsession For Man EDT 125ml",
       "url": "https://buy2day.pk/product/calvin-klein-obsession-for-man-edt-100ml/",
-      "price": "₨ 10,800",
-      "inStock": false
+      "price": "₨ 11,800",
+      "inStock": true
     },
     {
       "id": 105652,
