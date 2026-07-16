@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 388,
+  "total": 389,
   "products": [
+    {
+      "id": 113778,
+      "name": "Dawlance Twin Tub Washing Machine DW10600",
+      "url": "https://buy2day.pk/product/dawlance-twin-tub-washing-machine-dw10600/",
+      "price": "₨ 64,000",
+      "inStock": true
+    },
     {
       "id": 113525,
       "name": "West Point Professional Handy Garment Steamer WF-1253",
@@ -504,7 +511,7 @@
       "name": "Kenwood Electric Kettle ZJP-01",
       "url": "https://buy2day.pk/product/kenwood-electric-kettle-zjp-01/",
       "price": "₨ 13,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108785,
@@ -1183,7 +1190,7 @@
       "name": "Dawlance Water Dispenser Glass Door  Silver 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051-2/",
       "price": "₨ 51,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 74476,
@@ -1435,7 +1442,7 @@
       "name": "Braun Silk’Epil Soft Perfection Epilator, 3170",
       "url": "https://buy2day.pk/product/braun-silkepil-soft-perfection-epilator-3170/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 58523,
@@ -1575,7 +1582,7 @@
       "name": "Alpina Food Processor – SF-4002",
       "url": "https://buy2day.pk/product/alpina-food-processor-sf-4002/",
       "price": "₨ 48,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27698,
@@ -2506,7 +2513,7 @@
       "name": "Alpina Deep Fryer Double 3.5 Litre -SF-4008",
       "url": "https://buy2day.pk/product/alpina-alpina-deep-fryer-2-2-ltr-sf-4006/",
       "price": "₨ 32,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4509,
