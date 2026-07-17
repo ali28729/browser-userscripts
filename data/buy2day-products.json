@@ -461,7 +461,7 @@
       "id": 108821,
       "name": "Philips Kettle HD9318",
       "url": "https://buy2day.pk/product/philips-kettle-hd9318/",
-      "price": "₨ 14,500",
+      "price": "₨ 15,500",
       "inStock": true
     },
     {
@@ -532,7 +532,7 @@
       "name": "Philips Blender Grinder HR2222",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2222-2/",
       "price": "₨ 25,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108770,
@@ -2380,7 +2380,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1353",
       "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4894,
