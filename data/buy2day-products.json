@@ -4,7 +4,7 @@
   "products": [
     {
       "id": 113778,
-      "name": "Dawlance Twin Tub Washing Machine DW10600",
+      "name": "Dawlance Twin Tub Washing Machine DW10600/10500",
       "url": "https://buy2day.pk/product/dawlance-twin-tub-washing-machine-dw10600/",
       "price": "₨ 64,000",
       "inStock": true
@@ -490,7 +490,7 @@
       "name": "Braun Hand Blender Set MQ3025/3035",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3025/",
       "price": "₨ 21,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108810,
@@ -539,7 +539,7 @@
       "name": "Philips Blender Grinder HR2141",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2141/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108758,
@@ -1204,7 +1204,7 @@
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 59609,
@@ -2015,7 +2015,7 @@
       "id": 10243,
       "name": "Black + Decker Fan FW-1620/1610",
       "url": "https://buy2day.pk/product/black-decker-fan-fw-1620/",
-      "price": "₨ 17,000",
+      "price": "₨ 18,500",
       "inStock": true
     },
     {
@@ -2268,7 +2268,7 @@
       "name": "West Point Professional Kitchen Robot WF-506/503",
       "url": "https://buy2day.pk/product/west-point-kitchen-rebort-1000ml-bowl-saftey-interlock-2-speed-wf-501/",
       "price": "₨ 19,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5183,
@@ -2496,9 +2496,9 @@
     },
     {
       "id": 4517,
-      "name": "Alpina Alpina Rice Cooker 450W SF-1901",
+      "name": "Alpina Grill Roast & Toast SF-6012",
       "url": "https://buy2day.pk/product/alpina-alpina-rice-cooker-450w-sf-1901/",
-      "price": "₨ 13,000",
+      "price": "₨ 54,000",
       "inStock": true
     },
     {
