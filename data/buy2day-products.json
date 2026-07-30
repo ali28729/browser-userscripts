@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 388,
+  "total": 389,
   "products": [
     {
       "id": 113778,
@@ -490,7 +490,7 @@
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
       "price": "₨ 26,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108808,
@@ -532,7 +532,7 @@
       "name": "Philips Blender Grinder HR2141",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2141/",
       "price": "₨ 20,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108758,
@@ -1040,10 +1040,10 @@
     },
     {
       "id": 105745,
-      "name": "West Point Meat mincer WF-3040",
+      "name": "West Point Meat mincer WF-1045",
       "url": "https://buy2day.pk/product/west-point-meat-mincer-wf-3040/",
-      "price": "₨ 23,000",
-      "inStock": false
+      "price": "₨ 24,000",
+      "inStock": true
     },
     {
       "id": 105697,
@@ -1120,7 +1120,7 @@
       "name": "Planet Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/space-dog-bed-sheet-single-bed/",
       "price": "₨ 3,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105583,
@@ -1555,6 +1555,13 @@
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051/",
       "price": "₨ 51,000",
       "inStock": false
+    },
+    {
+      "id": 28228,
+      "name": "West Point Meat mincer WF-3050",
+      "url": "https://buy2day.pk/product/west-point-meat-mincer-wf-3250/",
+      "price": "₨ 29,000",
+      "inStock": true
     },
     {
       "id": 28127,
@@ -2212,7 +2219,7 @@
       "name": "Panasonic Light Weight  Dry Iron NI-317T",
       "url": "https://buy2day.pk/product/panasonic-light-weight-dry-iron-ni-317t/",
       "price": "₨ 10,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 8583,
