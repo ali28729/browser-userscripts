@@ -1,20 +1,20 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 389,
+  "total": 388,
   "products": [
     {
       "id": 113778,
       "name": "Dawlance Twin Tub Washing Machine DW10600/10500",
       "url": "https://buy2day.pk/product/dawlance-twin-tub-washing-machine-dw10600/",
       "price": "₨ 64,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 113525,
       "name": "West Point Professional Handy Garment Steamer WF-1253",
       "url": "https://buy2day.pk/product/west-point-professional-handy-garment-steamer-wf-1253/",
-      "price": "₨ 11,500",
-      "inStock": false
+      "price": "₨ 12,500",
+      "inStock": true
     },
     {
       "id": 113462,
@@ -476,7 +476,7 @@
       "name": "Panasonic Blender Grinder 5121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-5121/",
       "price": "₨ 21,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108812,
@@ -539,7 +539,7 @@
       "name": "Philips 2000 Series Airfryer NA220",
       "url": "https://buy2day.pk/product/philips-2000-series-airfryer-na220-3/",
       "price": "₨ 50,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108677,
@@ -1154,8 +1154,8 @@
       "id": 105458,
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
-      "price": "₨ 29,000",
-      "inStock": false
+      "price": "₨ 29,500",
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1211,7 +1211,7 @@
       "name": "Panasonic Hand Blender Set MX SS1",
       "url": "https://buy2day.pk/product/panasonic-hand-blender-set-mx-ss1/",
       "price": "₨ 22,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 59476,
@@ -1428,7 +1428,7 @@
       "name": "West Point Espresso Coffee Maker WF-2025",
       "url": "https://buy2day.pk/product/west-point-espresso-coffee-maker-wf-2024/",
       "price": "₨ 48,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 58667,
@@ -1877,13 +1877,6 @@
       "url": "https://buy2day.pk/product/west-point-juicer-blender-grinder-wf-5021/",
       "price": "₨ 30,000",
       "inStock": false
-    },
-    {
-      "id": 17130,
-      "name": "Philips Bagless vacuum cleaner FC9351/01",
-      "url": "https://buy2day.pk/product/sinbo-vacuum-cleaner-svc-3449/",
-      "price": "₨ 45,500",
-      "inStock": true
     },
     {
       "id": 17104,
@@ -2499,7 +2492,7 @@
       "name": "Alpina Grill Roast & Toast SF-6012",
       "url": "https://buy2day.pk/product/alpina-alpina-rice-cooker-450w-sf-1901/",
       "price": "₨ 54,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4512,
