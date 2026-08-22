@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 388,
+  "total": 387,
   "products": [
     {
       "id": 113778,
@@ -918,13 +918,6 @@
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx530/",
       "price": "₨ 25,500",
       "inStock": false
-    },
-    {
-      "id": 106611,
-      "name": "Black + Decker 4 Slice Toaster ET-444",
-      "url": "https://buy2day.pk/product/black-decker-4-slice-toaster-et-444/",
-      "price": "₨ 19,500",
-      "inStock": true
     },
     {
       "id": 106602,
