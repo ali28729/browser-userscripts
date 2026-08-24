@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 387,
+  "total": 390,
   "products": [
     {
       "id": 113778,
@@ -105,7 +105,7 @@
       "name": "TCL LED 43 inch Model 43T6D",
       "url": "https://buy2day.pk/product/tcl-led-43-inch-model-43t6d/",
       "price": "₨ 106,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 112680,
@@ -168,7 +168,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 40,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111998,
@@ -286,8 +286,8 @@
       "id": 110365,
       "name": "Elizabeth Arden 5th Avenue EDT 125ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-5th-avenue-edt-125ml/",
-      "price": "₨ 11,000",
-      "inStock": false
+      "price": "₨ 13,000",
+      "inStock": true
     },
     {
       "id": 110363,
@@ -489,8 +489,8 @@
       "id": 108810,
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
-      "price": "₨ 26,000",
-      "inStock": false
+      "price": "₨ 28,000",
+      "inStock": true
     },
     {
       "id": 108808,
@@ -1084,8 +1084,8 @@
       "id": 105690,
       "name": "Davidoff Adventure EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-adventure-edt-100ml/",
-      "price": "₨ 10,500",
-      "inStock": false
+      "price": "₨ 11,500",
+      "inStock": true
     },
     {
       "id": 105681,
@@ -1189,8 +1189,8 @@
       "id": 59622,
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
-      "price": "₨ 20,000",
-      "inStock": false
+      "price": "₨ 22,000",
+      "inStock": true
     },
     {
       "id": 59609,
@@ -1497,7 +1497,7 @@
       "id": 34334,
       "name": "Philips Steam Iron DST1020",
       "url": "https://buy2day.pk/product/philips-steam-iron-gc1020/",
-      "price": "₨ 15,500",
+      "price": "₨ 16,500",
       "inStock": true
     },
     {
@@ -1512,6 +1512,13 @@
       "name": "Dawlance Room Refrigerator 9101",
       "url": "https://buy2day.pk/product/dawlance-room-refrigerator-9101/",
       "price": "₨ 53,000",
+      "inStock": true
+    },
+    {
+      "id": 34051,
+      "name": "Panasonic Blender Grinder GX1021",
+      "url": "https://buy2day.pk/product/panasonic-blender-grinder-gx1021-2/",
+      "price": "₨ 18,000",
       "inStock": true
     },
     {
@@ -1588,8 +1595,8 @@
       "id": 27566,
       "name": "Braun, MultiPractic 3 Chopper CH 3011 / 3012 /3013",
       "url": "https://buy2day.pk/product/braun-multipractic-3-chopper-ch-3011/",
-      "price": "₨ 22,000",
-      "inStock": false
+      "price": "₨ 23,000",
+      "inStock": true
     },
     {
       "id": 27562,
@@ -1602,8 +1609,8 @@
       "id": 27556,
       "name": "Braun MultiQuick  MQ500 (Metal Rod)",
       "url": "https://buy2day.pk/product/braun-multiquick-mq500-metal-rod/",
-      "price": "₨ 16,000",
-      "inStock": false
+      "price": "₨ 18,500",
+      "inStock": true
     },
     {
       "id": 27522,
@@ -1771,7 +1778,7 @@
       "name": "Braun Hand Blender Multiquick 3 MQ3000",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135-2/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 25925,
@@ -1896,8 +1903,8 @@
       "id": 11606,
       "name": "Braun Hand Blender Set MQ3048",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3048/",
-      "price": "₨ 30,500",
-      "inStock": false
+      "price": "₨ 31,000",
+      "inStock": true
     },
     {
       "id": 11549,
@@ -1925,6 +1932,13 @@
       "name": "Kaliz Facial Steamer – 4 in 1",
       "url": "https://buy2day.pk/product/kaliz-facial-steamer-4-in-1/",
       "price": "₨ 2,500",
+      "inStock": true
+    },
+    {
+      "id": 11462,
+      "name": "Panasonic Blender Grinder EX-1081",
+      "url": "https://buy2day.pk/product/panasonic-blender-grinder-ex-1081/",
+      "price": "₨ 23,000",
       "inStock": true
     },
     {
@@ -2045,6 +2059,13 @@
       "url": "https://buy2day.pk/product/kenwood-blender-grinder-blp-10/",
       "price": "₨ 18,500",
       "inStock": false
+    },
+    {
+      "id": 10169,
+      "name": "Kenwood Food Processor FDP-03",
+      "url": "https://buy2day.pk/product/kenwood-food-processor-fdp-03/",
+      "price": "₨ 28,500",
+      "inStock": true
     },
     {
       "id": 10164,
@@ -2260,8 +2281,8 @@
       "id": 5183,
       "name": "Black & Decker Sandwich Grill TS53",
       "url": "https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-495/",
-      "price": "₨ 10,000",
-      "inStock": false
+      "price": "₨ 12,500",
+      "inStock": true
     },
     {
       "id": 5179,
@@ -2517,10 +2538,10 @@
     },
     {
       "id": 4502,
-      "name": "Moulinex Chopper DPA-141",
+      "name": "Moulinex Chopper DPA-141/144",
       "url": "https://buy2day.pk/product/alpina-alpina-2-slice-cool-touch-toaster-1000-w-sf-2501/",
       "price": "₨ 25,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4494,
@@ -2666,8 +2687,8 @@
       "id": 1635,
       "name": "Philips Steam Iron GC1742/40",
       "url": "https://buy2day.pk/product/philips-steam-iron-gc1742-40/",
-      "price": "₨ 13,500",
-      "inStock": false
+      "price": "₨ 15,500",
+      "inStock": true
     },
     {
       "id": 1626,
@@ -2695,7 +2716,7 @@
       "name": "Philips Kettle HD9350",
       "url": "https://buy2day.pk/product/philips-kettle-hd9306-03/",
       "price": "₨ 17,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 1584,
