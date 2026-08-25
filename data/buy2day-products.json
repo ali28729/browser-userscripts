@@ -14,7 +14,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1253",
       "url": "https://buy2day.pk/product/west-point-professional-handy-garment-steamer-wf-1253/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 113462,
@@ -441,7 +441,7 @@
       "name": "Philips Hand Blender HR2545",
       "url": "https://buy2day.pk/product/philips-hand-blender-hr2545/",
       "price": "₨ 20,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108823,
@@ -1420,8 +1420,8 @@
       "id": 58735,
       "name": "West Point Espresso Coffee Maker WF-2025",
       "url": "https://buy2day.pk/product/west-point-espresso-coffee-maker-wf-2024/",
-      "price": "₨ 48,500",
-      "inStock": false
+      "price": "₨ 50,000",
+      "inStock": true
     },
     {
       "id": 58667,
@@ -2471,7 +2471,7 @@
       "name": "Alpina Steam Iron Non-Stick soleplate 1600W SF-3924",
       "url": "https://buy2day.pk/product/alpina-alpina-steam-iron-non-stick-soleplate-1600w-sf-3924/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4531,
