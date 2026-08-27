@@ -3,6 +3,13 @@
   "total": 390,
   "products": [
     {
+      "id": 114239,
+      "name": "Remington Hair Straightener Keratin Protect S8598",
+      "url": "https://buy2day.pk/product/remington-hair-straightener-keratin-protect-s8598/",
+      "price": "₨ 19,500",
+      "inStock": true
+    },
+    {
       "id": 113778,
       "name": "Dawlance Twin Tub Washing Machine DW10600/10500",
       "url": "https://buy2day.pk/product/dawlance-twin-tub-washing-machine-dw10600/",
@@ -245,7 +252,7 @@
       "name": "Elizabeth Arden Red Door EDT, 100ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-red-door-edt-100ml/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111162,
@@ -1211,7 +1218,7 @@
       "name": "HAIER Microwave Oven HMN-45200 ESD",
       "url": "https://buy2day.pk/product/haier-microwave-oven-hmn-45200-esd/",
       "price": "₨ 50,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 59351,
@@ -1610,7 +1617,7 @@
       "name": "Braun MultiQuick  MQ500 (Metal Rod)",
       "url": "https://buy2day.pk/product/braun-multiquick-mq500-metal-rod/",
       "price": "₨ 18,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27522,
@@ -1910,7 +1917,7 @@
       "id": 11549,
       "name": "Philips Air Purifier AC1711",
       "url": "https://buy2day.pk/product/philips-air-purifier-ac0820/",
-      "price": "₨ 99,000",
+      "price": "₨ 109,000",
       "inStock": true
     },
     {
@@ -2086,13 +2093,6 @@
       "name": "Haier Microwave Oven HMN-32100 / 32300",
       "url": "https://buy2day.pk/product/haier-microwave-oven-hmn-32100/",
       "price": "₨ 43,000",
-      "inStock": true
-    },
-    {
-      "id": 9348,
-      "name": "Black + Decker Vacuum Cleaner VM 1680",
-      "url": "https://buy2day.pk/product/black-decker-vacuum-cleaner-vm-1480/",
-      "price": "₨ 46,500",
       "inStock": true
     },
     {
