@@ -1,3 +1,3 @@
-# 1 New Buy2Day Product
+# No New Buy2Day Products
 
-- [Remington Hair Straightener Keratin Protect S8598](https://buy2day.pk/product/remington-hair-straightener-keratin-protect-s8598/) - ₨ 19,500 (in stock)
+Checked 390 eligible products in the shop.
