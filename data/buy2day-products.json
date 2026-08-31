@@ -406,7 +406,7 @@
       "name": "Kenwood Juicer – JEP-02",
       "url": "https://buy2day.pk/product/kenwood-juicer-jep-02/",
       "price": "₨ 25,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109207,
@@ -1092,7 +1092,7 @@
       "name": "Davidoff Adventure EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-adventure-edt-100ml/",
       "price": "₨ 11,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105681,
@@ -2422,7 +2422,7 @@
       "name": "Black + Decker Grinder CBM4",
       "url": "https://buy2day.pk/product/alpina-alpina-coffee-spice-grinder-white-90-w-sf-2813/",
       "price": "₨ 13,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4568,
@@ -2513,7 +2513,7 @@
       "name": "Alpina Alpina S.S Deep Fryer 3.1 Ltr 2000W SF-4003",
       "url": "https://buy2day.pk/product/alpina-alpina-s-s-deep-fryer-3-1-ltr-2000w-sf-4003/",
       "price": "₨ 26,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4511,
