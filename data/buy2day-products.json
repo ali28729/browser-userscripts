@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 390,
+  "total": 388,
   "products": [
     {
       "id": 114239,
@@ -13,7 +13,7 @@
       "id": 113778,
       "name": "Dawlance Twin Tub Washing Machine DW10600/10500",
       "url": "https://buy2day.pk/product/dawlance-twin-tub-washing-machine-dw10600/",
-      "price": "₨ 64,000",
+      "price": "₨ 66,000",
       "inStock": true
     },
     {
@@ -286,22 +286,22 @@
       "id": 110639,
       "name": "Hugo Boss Green EDT 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-green-edt-75ml/",
-      "price": "₨ 11,500",
-      "inStock": false
+      "price": "₨ 12,000",
+      "inStock": true
     },
     {
       "id": 110365,
       "name": "Elizabeth Arden 5th Avenue EDT 125ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-5th-avenue-edt-125ml/",
-      "price": "₨ 13,000",
+      "price": "₨ 13,500",
       "inStock": true
     },
     {
       "id": 110363,
       "name": "Calvin Klein Eternity Men EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-eternity-men-edt-100ml/",
-      "price": "₨ 14,500",
-      "inStock": false
+      "price": "₨ 14,800",
+      "inStock": true
     },
     {
       "id": 110359,
@@ -314,8 +314,8 @@
       "id": 110357,
       "name": "Hugo Boss Energies Edt 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-energies-edt-75ml/",
-      "price": "₨ 12,750",
-      "inStock": false
+      "price": "₨ 13,250",
+      "inStock": true
     },
     {
       "id": 110252,
@@ -454,14 +454,14 @@
       "id": 108823,
       "name": "Philips Toaster HD2510",
       "url": "https://buy2day.pk/product/philips-toaster-hd2510/",
-      "price": "₨ 13,500",
+      "price": "₨ 17,500",
       "inStock": true
     },
     {
       "id": 108821,
-      "name": "Philips Kettle HD9318",
+      "name": "Philips Kettle HD9316",
       "url": "https://buy2day.pk/product/philips-kettle-hd9318/",
-      "price": "₨ 15,500",
+      "price": "₨ 16,500",
       "inStock": true
     },
     {
@@ -489,8 +489,8 @@
       "id": 108812,
       "name": "Braun Hand Blender Set MQ3025/3035",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3025/",
-      "price": "₨ 21,500",
-      "inStock": false
+      "price": "₨ 23,000",
+      "inStock": true
     },
     {
       "id": 108810,
@@ -626,13 +626,6 @@
       "inStock": true
     },
     {
-      "id": 108625,
-      "name": "Philips Bagless vacuum cleaner FC9351",
-      "url": "https://buy2day.pk/product/philips-bagless-vacuum-cleaner-fc9351-2/",
-      "price": "₨ 42,900",
-      "inStock": true
-    },
-    {
       "id": 108623,
       "name": "Philips 2000 Series Airfryer NA220",
       "url": "https://buy2day.pk/product/philips-2000-series-airfryer-na220-2/",
@@ -644,13 +637,6 @@
       "name": "Braun Hand Blender MQ100",
       "url": "https://buy2day.pk/product/braun-hand-blender-mq100/",
       "price": "₨ 11,500",
-      "inStock": true
-    },
-    {
-      "id": 108620,
-      "name": "Black + Decker Heavy Iron F550",
-      "url": "https://buy2day.pk/product/black-decker-heavy-iron-f550-2/",
-      "price": "₨ 13,500",
       "inStock": true
     },
     {
@@ -1049,8 +1035,8 @@
       "id": 105697,
       "name": "Davidoff Cool Water Woman EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-cool-water-woman-edt-50ml/",
-      "price": "₨ 10,900",
-      "inStock": false
+      "price": "₨ 11,500",
+      "inStock": true
     },
     {
       "id": 105696,
@@ -2716,7 +2702,7 @@
       "name": "Philips Kettle HD9350",
       "url": "https://buy2day.pk/product/philips-kettle-hd9306-03/",
       "price": "₨ 17,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 1584,
