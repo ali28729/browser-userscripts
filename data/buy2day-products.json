@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 388,
+  "total": 382,
   "products": [
     {
       "id": 114239,
@@ -133,7 +133,7 @@
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
       "price": "₨ 29,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 112466,
@@ -227,13 +227,6 @@
       "inStock": false
     },
     {
-      "id": 111544,
-      "name": "Philips Garment Steamer Iron STE1030",
-      "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1030/",
-      "price": "₨ 34,000",
-      "inStock": false
-    },
-    {
       "id": 111494,
       "name": "Dawlance 9140  E-Chrome – Non-Inverter",
       "url": "https://buy2day.pk/product/dawlance-9140-e-chrome-non-inverter/",
@@ -259,13 +252,6 @@
       "name": "West Point Deluxe Bath Scale WF-8605/8607",
       "url": "https://buy2day.pk/product/west-point-ear-phone-3-5mm-wp-421/",
       "price": "₨ 6,000",
-      "inStock": false
-    },
-    {
-      "id": 111160,
-      "name": "West Point Deluxe Roti Maker WF-6514T",
-      "url": "https://buy2day.pk/product/west-point-ear-phone-type-c-wp-432/",
-      "price": "₨ 18,500",
       "inStock": false
     },
     {
@@ -540,6 +526,13 @@
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2141/",
       "price": "₨ 20,000",
       "inStock": false
+    },
+    {
+      "id": 108759,
+      "name": "Philips 2000 Series Airfryer 2000 series 6.2L NA230/00",
+      "url": "https://buy2day.pk/product/philips-2000-series-airfryer-2000-series-6-2l-na230-00/",
+      "price": "₨ 60,000",
+      "inStock": true
     },
     {
       "id": 108758,
@@ -832,8 +825,8 @@
       "id": 107247,
       "name": "Panasonic Blender Grinder CP3121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-cp3121/",
-      "price": "₨ 20,000",
-      "inStock": false
+      "price": "₨ 21,000",
+      "inStock": true
     },
     {
       "id": 107227,
@@ -966,27 +959,6 @@
       "name": "Dawlance 9140WB Chrome – Non-Inverter",
       "url": "https://buy2day.pk/product/dawlance-9140wb-chrome-non-inverter/",
       "price": "₨ 69,000",
-      "inStock": false
-    },
-    {
-      "id": 105935,
-      "name": "Panasonic Cyclone Bagless Vacuum Cleaner MC-CL603",
-      "url": "https://buy2day.pk/product/panasonic-cyclone-bagless-vacuum-cleaner-mc-cl603/",
-      "price": "₨ 52,000",
-      "inStock": false
-    },
-    {
-      "id": 105920,
-      "name": "Panasonic Cyclone Bagless Vacuum Cleaner MC-CL601",
-      "url": "https://buy2day.pk/product/panasonic-cyclone-bagless-vacuum-cleaner-mc-cl601/",
-      "price": "₨ 45,000",
-      "inStock": false
-    },
-    {
-      "id": 105915,
-      "name": "Panasonic Blender Grinder 1521",
-      "url": "https://buy2day.pk/product/panasonic-blender-grinder-1521/",
-      "price": "₨ 20,000",
       "inStock": false
     },
     {
@@ -1141,7 +1113,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 29,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1434,7 +1406,7 @@
       "id": 58434,
       "name": "Philips Lumea IPL Hair Removal Device, SenseIQ, Cordless, BRI958",
       "url": "https://buy2day.pk/product/philips-lumea-ipl-hair-removal-device-senseiq-cordless-bri955-60/",
-      "price": "₨ 195,000",
+      "price": "₨ 160,000",
       "inStock": true
     },
     {
@@ -1511,7 +1483,7 @@
       "id": 34051,
       "name": "Panasonic Blender Grinder GX1021",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-gx1021-2/",
-      "price": "₨ 18,000",
+      "price": "₨ 18,500",
       "inStock": true
     },
     {
@@ -1638,7 +1610,7 @@
       "name": "Braun MQ5235 Hand Blender Multiquick Vario",
       "url": "https://buy2day.pk/product/braun-mq5235-hand-blender-multiquick-vario/",
       "price": "₨ 25,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27153,
@@ -1771,7 +1743,7 @@
       "name": "Braun Hand Blender Multiquick 3 MQ3000",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135-2/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 25925,
@@ -2208,13 +2180,6 @@
       "inStock": true
     },
     {
-      "id": 8596,
-      "name": "Panasonic Light Weight  Dry Iron NI-317T",
-      "url": "https://buy2day.pk/product/panasonic-light-weight-dry-iron-ni-317t/",
-      "price": "₨ 10,500",
-      "inStock": false
-    },
-    {
       "id": 8583,
       "name": "Remington Hair Dryer D3010",
       "url": "https://buy2day.pk/product/remington-hair-dryer-d3010/",
@@ -2386,7 +2351,7 @@
       "id": 4893,
       "name": "Braun Citrus Juicer CJ3050",
       "url": "https://buy2day.pk/product/braun-multiquick-3-mq-3000-smoothie/",
-      "price": "₨ 15,500",
+      "price": "₨ 16,500",
       "inStock": true
     },
     {
@@ -2656,13 +2621,6 @@
       "inStock": true
     },
     {
-      "id": 1680,
-      "name": "Philips Hair Straightner HP8302/00",
-      "url": "https://buy2day.pk/product/philips-hair-straightner-hp8302-00/",
-      "price": "₨ 11,000",
-      "inStock": false
-    },
-    {
       "id": 1667,
       "name": "Philips Hair Dryer HP8108/00",
       "url": "https://buy2day.pk/product/philips-hair-dryer-hp8108-00/",
@@ -2674,7 +2632,7 @@
       "name": "Philips Steam Iron GC1742/40",
       "url": "https://buy2day.pk/product/philips-steam-iron-gc1742-40/",
       "price": "₨ 15,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 1626,
