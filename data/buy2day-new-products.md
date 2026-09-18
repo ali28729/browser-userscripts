@@ -1,3 +1,3 @@
-# No New Buy2Day Products
+# 1 New Buy2Day Product
 
-Checked 382 eligible products in the shop.
+- [Philips Digital Air Fryer HD9285 Black](https://buy2day.pk/product/philips-digital-air-fryer-hd9280-black/) - ₨ 87,500 (out of stock)

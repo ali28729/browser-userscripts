@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 382,
+  "total": 383,
   "products": [
     {
       "id": 114400,
@@ -175,7 +175,7 @@
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
       "price": "₨ 29,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 112466,
@@ -1141,6 +1141,13 @@
       "name": "Dawlance Water Dispenser Glass Door  Silver 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-silver-1051-2/",
       "price": "₨ 51,500",
+      "inStock": false
+    },
+    {
+      "id": 74690,
+      "name": "Philips Digital Air Fryer HD9285 Black",
+      "url": "https://buy2day.pk/product/philips-digital-air-fryer-hd9280-black/",
+      "price": "₨ 87,500",
       "inStock": false
     },
     {
