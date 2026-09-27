@@ -1,3 +1,3 @@
-# No New Buy2Day Products
+# 1 New Buy2Day Product
 
-Checked 383 eligible products in the shop.
+- [Philips Airfryer NA 130](https://buy2day.pk/product/philips-airfryer-hd130/) - ₨ 48,000 (in stock)

@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 383,
+  "total": 384,
   "products": [
+    {
+      "id": 114639,
+      "name": "Philips Airfryer NA 130",
+      "url": "https://buy2day.pk/product/philips-airfryer-hd130/",
+      "price": "₨ 48,000",
+      "inStock": true
+    },
     {
       "id": 114400,
       "name": "Davidoff Cool Water Men EDT 125ml",
@@ -14,7 +21,7 @@
       "name": "BOSS Femme – for Her – 75ml",
       "url": "https://buy2day.pk/product/boss-femme-for-her-75ml/",
       "price": "₨ 17,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 114396,
@@ -35,7 +42,7 @@
       "name": "Hugo Boss Bottled EDT 100ml",
       "url": "https://buy2day.pk/product/hugo-boss-bottled-edt-100ml/",
       "price": "₨ 18,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 114390,
@@ -315,14 +322,14 @@
       "name": "Elizabeth Arden 5th Avenue EDT 125ml",
       "url": "https://buy2day.pk/product/elizabeth-arden-5th-avenue-edt-125ml/",
       "price": "₨ 13,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110363,
       "name": "Calvin Klein Eternity Men EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-eternity-men-edt-100ml/",
       "price": "₨ 15,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110357,
@@ -448,7 +455,7 @@
       "name": "Calvin Klein Free For Man EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-free-for-man-edt-100ml/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108827,
