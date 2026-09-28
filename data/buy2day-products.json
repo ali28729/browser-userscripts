@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 384,
+  "total": 385,
   "products": [
     {
       "id": 114639,
@@ -1119,7 +1119,7 @@
       "id": 105458,
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
-      "price": "₨ 29,500",
+      "price": "₨ 26,000",
       "inStock": true
     },
     {
@@ -2243,6 +2243,13 @@
       "inStock": false
     },
     {
+      "id": 5188,
+      "name": "West Point Chopper Professional Chopper WF-1099XJ",
+      "url": "https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-504/",
+      "price": "₨ 14,600",
+      "inStock": true
+    },
+    {
       "id": 5183,
       "name": "Black & Decker Sandwich Grill TS53",
       "url": "https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-495/",
@@ -2268,7 +2275,7 @@
       "name": "West Point Deluxe Dry Iron WF-2431",
       "url": "https://buy2day.pk/product/west-point-dry-iron-midi-weight-black-handle-wf-672/",
       "price": "₨ 7,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5159,

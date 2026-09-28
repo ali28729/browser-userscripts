@@ -1,3 +1,3 @@
 # 1 New Buy2Day Product
 
-- [Philips Airfryer NA 130](https://buy2day.pk/product/philips-airfryer-hd130/) - ₨ 48,000 (in stock)
+- [West Point Chopper Professional Chopper WF-1099XJ](https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-504/) - ₨ 14,600 (in stock)
