@@ -798,7 +798,7 @@
       "name": "Philips Blender Grinder HR2221",
       "url": "https://buy2day.pk/product/philips-blender-grinder-hr2221/",
       "price": "₨ 22,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 107952,
@@ -1120,7 +1120,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 26,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1960,7 +1960,7 @@
       "name": "West Point Induction Cooker WF-143",
       "url": "https://buy2day.pk/product/west-point-induction-cooker-wf-143-2/",
       "price": "₨ 23,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10325,
@@ -2247,7 +2247,7 @@
       "name": "West Point Chopper Professional Chopper WF-1099XJ",
       "url": "https://buy2day.pk/product/west-point-chopper-vegetable-cutters-wf-504/",
       "price": "₨ 14,600",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5183,
