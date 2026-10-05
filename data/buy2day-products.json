@@ -224,7 +224,7 @@
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 40,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111998,
@@ -398,8 +398,8 @@
       "id": 109614,
       "name": "Professional Ceramic Cooker WF-291",
       "url": "https://buy2day.pk/product/west-point-double-hot-plate-wf-262/",
-      "price": "₨ 17,500",
-      "inStock": false
+      "price": "₨ 19,000",
+      "inStock": true
     },
     {
       "id": 109609,
@@ -1596,7 +1596,7 @@
       "name": "Panasonic Drum Vacuum Cleaner MCYL690",
       "url": "https://buy2day.pk/product/panasonic-drum-vacuum-cleaner-mcyl633/",
       "price": "₨ 54,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 27513,
@@ -1757,7 +1757,7 @@
       "name": "Braun Hand Blender Multiquick 3 MQ3000",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135-2/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 25925,
@@ -1876,7 +1876,7 @@
       "name": "Braun Hand Blender Set MQ3038",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3038/",
       "price": "₨ 29,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 11606,
@@ -2317,7 +2317,7 @@
       "name": "West Point Food Processor Professional Stand Mixture WF4636 / 4646",
       "url": "https://buy2day.pk/product/west-point-food-processor-with-unbreakable-jug-new-model-wf-5806/",
       "price": "₨ 37,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 5106,
@@ -2359,7 +2359,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1353",
       "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4894,
