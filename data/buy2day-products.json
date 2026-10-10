@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 385,
+  "total": 384,
   "products": [
     {
       "id": 114639,
@@ -301,7 +301,7 @@
       "name": "West Point Deluxe Dough Maker WF-3616",
       "url": "https://buy2day.pk/product/west-point-power-bank-wp2000/",
       "price": "₨ 23,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110702,
@@ -939,13 +939,6 @@
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx530/",
       "price": "₨ 25,500",
       "inStock": false
-    },
-    {
-      "id": 106602,
-      "name": "Black + Decker Sandwich + Waffle + Grill TS2130",
-      "url": "https://buy2day.pk/product/black-decker-sandwich-waffle-grill-ts2130/",
-      "price": "₨ 20,500",
-      "inStock": true
     },
     {
       "id": 106597,
@@ -1960,7 +1953,7 @@
       "name": "West Point Induction Cooker WF-143",
       "url": "https://buy2day.pk/product/west-point-induction-cooker-wf-143-2/",
       "price": "₨ 23,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10325,
