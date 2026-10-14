@@ -21,20 +21,20 @@
       "name": "BOSS Femme – for Her – 75ml",
       "url": "https://buy2day.pk/product/boss-femme-for-her-75ml/",
       "price": "₨ 17,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114396,
       "name": "Nautica Voyage EDT 100ml",
       "url": "https://buy2day.pk/product/nautica-voyage-edt-100ml/",
       "price": "₨ 8,800",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114394,
       "name": "Aramis EDT 110ml (Brown)",
       "url": "https://buy2day.pk/product/aramis-edt-110ml-brown/",
-      "price": "₨ 12,500",
+      "price": "₨ 13,000",
       "inStock": true
     },
     {
@@ -42,14 +42,14 @@
       "name": "Hugo Boss Bottled EDT 100ml",
       "url": "https://buy2day.pk/product/hugo-boss-bottled-edt-100ml/",
       "price": "₨ 18,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114390,
       "name": "Dunhill London Desire RED EDT 100ml",
       "url": "https://buy2day.pk/product/dunhill-london-desire-red-edt-100ml-copy/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114239,
@@ -315,7 +315,7 @@
       "name": "Hugo Boss Green EDT 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-green-edt-75ml/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 110365,
@@ -328,8 +328,8 @@
       "id": 110363,
       "name": "Calvin Klein Eternity Men EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-eternity-men-edt-100ml/",
-      "price": "₨ 15,500",
-      "inStock": false
+      "price": "₨ 16,000",
+      "inStock": true
     },
     {
       "id": 110357,
@@ -455,7 +455,7 @@
       "name": "Calvin Klein Free For Man EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-free-for-man-edt-100ml/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108827,
@@ -805,7 +805,7 @@
       "name": "Calvin Klein Eternity Women EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-eternity-edt-30ml/",
       "price": "₨ 15,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107929,
@@ -1056,15 +1056,15 @@
       "id": 105681,
       "name": "Calvin Klein Obsession For Women EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-obsession-for-women-edt-100ml/",
-      "price": "₨ 12,500",
-      "inStock": false
+      "price": "₨ 13,000",
+      "inStock": true
     },
     {
       "id": 105677,
-      "name": "Calvin Klein Obsession For Man EDT 125ml",
+      "name": "Calvin Klein Obsession For Man EDT 100ml",
       "url": "https://buy2day.pk/product/calvin-klein-obsession-for-man-edt-100ml/",
-      "price": "₨ 12,000",
-      "inStock": false
+      "price": "₨ 13,000",
+      "inStock": true
     },
     {
       "id": 105652,
