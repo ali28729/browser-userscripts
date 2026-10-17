@@ -1,7 +1,21 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 384,
+  "total": 386,
   "products": [
+    {
+      "id": 114880,
+      "name": "DELONGHI COFFEE MAKER EC685.BK",
+      "url": "https://buy2day.pk/product/delonghi-coffee-maker-ec685-bk/",
+      "price": "₨ 53,000",
+      "inStock": true
+    },
+    {
+      "id": 114877,
+      "name": "REMINGTON S9100 HAIR STRAIGHTENER PROLUXE",
+      "url": "https://buy2day.pk/product/remington-s9100-hair-straightener-proluxe/",
+      "price": "₨ 19,500",
+      "inStock": true
+    },
     {
       "id": 114639,
       "name": "Philips Airfryer NA 130",
@@ -49,7 +63,7 @@
       "name": "Dunhill London Desire RED EDT 100ml",
       "url": "https://buy2day.pk/product/dunhill-london-desire-red-edt-100ml-copy/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 114239,
