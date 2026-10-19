@@ -84,7 +84,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1253",
       "url": "https://buy2day.pk/product/west-point-professional-handy-garment-steamer-wf-1253/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 113462,
@@ -839,7 +839,7 @@
       "id": 107363,
       "name": "Philips Digital Air Fryer HD9270",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-hd9270/",
-      "price": "₨ 55,000",
+      "price": "₨ 51,000",
       "inStock": true
     },
     {
@@ -1778,7 +1778,7 @@
       "name": "Braun Multiquick 5 Hand Blender MQ3135",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135/",
       "price": "₨ 22,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 22832,
@@ -2218,8 +2218,8 @@
       "id": 5222,
       "name": "West Point Deluxe Sandwich Toaster WF-6696",
       "url": "https://buy2day.pk/product/west-point-new-model-sandwich-maker-steel-body-wf-6697/",
-      "price": "₨ 14,800",
-      "inStock": false
+      "price": "₨ 14,000",
+      "inStock": true
     },
     {
       "id": 5215,
@@ -2366,7 +2366,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1353",
       "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4894,
@@ -2492,7 +2492,7 @@
       "name": "Alpina Alpina S.S Deep Fryer 3.1 Ltr 2000W SF-4003",
       "url": "https://buy2day.pk/product/alpina-alpina-s-s-deep-fryer-3-1-ltr-2000w-sf-4003/",
       "price": "₨ 26,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4511,
