@@ -532,7 +532,7 @@
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
       "price": "₨ 28,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108808,
@@ -1890,7 +1890,7 @@
       "name": "Braun Hand Blender Set MQ3048",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3048/",
       "price": "₨ 31,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 11549,
@@ -2387,7 +2387,7 @@
       "name": "Braun MultiQuick 1 Hand Blender MQ100",
       "url": "https://buy2day.pk/product/braun-multiquick-1-mq-100-curry/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4570,
