@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 386,
+  "total": 388,
   "products": [
     {
       "id": 114880,
@@ -318,6 +318,13 @@
       "inStock": false
     },
     {
+      "id": 110871,
+      "name": "Moulinex Chopper DPA-810810",
+      "url": "https://buy2day.pk/product/moulinex-chopper-dpa-810810/",
+      "price": "₨ 30,000",
+      "inStock": true
+    },
+    {
       "id": 110702,
       "name": "Black & Decker Sandwich Grill  + Waffle G2",
       "url": "https://buy2day.pk/product/black-decker-sandwich-grill-waffle-g2/",
@@ -413,7 +420,7 @@
       "name": "Professional Ceramic Cooker WF-291",
       "url": "https://buy2day.pk/product/west-point-double-hot-plate-wf-262/",
       "price": "₨ 19,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109609,
@@ -2478,6 +2485,13 @@
       "name": "Alpina Panini Grill / Sandwich Press 1000W SF-6021",
       "url": "https://buy2day.pk/product/alpina-alpina-panini-grill-sandwich-press-1000w-sf-6022/",
       "price": "₨ 24,900",
+      "inStock": true
+    },
+    {
+      "id": 4519,
+      "name": "Black + Decker Blender Grinder BX600G",
+      "url": "https://buy2day.pk/product/alpina-alpina-belgian-waffle-maker-1000w-sf-2611/",
+      "price": "₨ 26,000",
       "inStock": true
     },
     {
