@@ -1782,10 +1782,10 @@
     },
     {
       "id": 25910,
-      "name": "Braun Multiquick 5 Hand Blender MQ3135",
+      "name": "Braun Multiquick Hand Blender MQ3135",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135/",
       "price": "₨ 22,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 22832,
@@ -2002,7 +2002,7 @@
       "name": "ELITE ESPRESSO MACHINE FULLY AUTOMATIC – EEM-020",
       "url": "https://buy2day.pk/product/elite-espresso-machine-fully-automatic-eem-020/",
       "price": "₨ 55,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 10243,
@@ -2694,7 +2694,7 @@
       "id": 1613,
       "name": "Philips Toaster HD2581/00",
       "url": "https://buy2day.pk/product/philips-toaster-hd2582-00/",
-      "price": "₨ 14,000",
+      "price": "₨ 16,000",
       "inStock": true
     },
     {
