@@ -273,7 +273,7 @@
       "name": "Philips Digital Air Fryer NA332",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-na323/",
       "price": "₨ 62,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111652,
@@ -336,7 +336,7 @@
       "name": "Hugo Boss Green EDT 75ml",
       "url": "https://buy2day.pk/product/hugo-boss-green-edt-75ml/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 110365,
@@ -539,7 +539,7 @@
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
       "price": "₨ 28,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 108808,
@@ -2373,7 +2373,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1353",
       "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
       "price": "₨ 12,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4894,
