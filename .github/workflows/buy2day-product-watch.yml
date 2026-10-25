@@ -9,9 +9,13 @@ permissions:
   contents: write
   issues: write
 
+concurrency:
+  group: buy2day-product-watch
+  cancel-in-progress: false
+
 jobs:
   check-products:
-    name: Check Rewards Products
+    name: Check Wishlist Products
     runs-on: ubuntu-latest
 
     steps:
@@ -22,6 +26,11 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: 24
+
+      - name: Verify wishlist policy and regression tests
+        run: |
+          node tools/sync-buy2day-policy.mjs --check
+          node --test tests/buy2day-policy.test.cjs
 
       - name: Check Buy2Day products
         id: check
@@ -44,7 +53,7 @@ jobs:
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `Buy2Day: ${count} new product${count === 1 ? "" : "s"} detected`,
+              title: `Buy2Day: ${count} new wishlist match${count === 1 ? "" : "es"}`,
               body,
             });
 
