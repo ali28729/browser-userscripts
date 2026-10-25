@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 388,
+  "total": 387,
   "products": [
     {
       "id": 114880,
@@ -14,7 +14,7 @@
       "name": "REMINGTON S9100 HAIR STRAIGHTENER PROLUXE",
       "url": "https://buy2day.pk/product/remington-s9100-hair-straightener-proluxe/",
       "price": "₨ 19,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 114639,
@@ -140,7 +140,7 @@
       "name": "Tropical Jungle Safari Bed Sheet Single bed",
       "url": "https://buy2day.pk/product/dinosaur-geometric-bed-sheet-single-bed/",
       "price": "₨ 3,950",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 113387,
@@ -503,7 +503,7 @@
       "id": 108821,
       "name": "Philips Kettle HD9316",
       "url": "https://buy2day.pk/product/philips-kettle-hd9318/",
-      "price": "₨ 16,500",
+      "price": "₨ 17,000",
       "inStock": true
     },
     {
@@ -965,7 +965,7 @@
       "id": 106597,
       "name": "Black + Decker Electric Kettle JC-69",
       "url": "https://buy2day.pk/product/black-decker-electric-kettle-jc-69/",
-      "price": "₨ 13,500",
+      "price": "₨ 15,000",
       "inStock": true
     },
     {
@@ -1043,7 +1043,7 @@
       "name": "Davidoff Cool Water Woman EDT 100ml",
       "url": "https://buy2day.pk/product/davidoff-cool-water-woman-edt-50ml/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105696,
@@ -2082,13 +2082,6 @@
       "inStock": true
     },
     {
-      "id": 9340,
-      "name": "Black + Decker Electric Kettle JC-450",
-      "url": "https://buy2day.pk/product/black-decker-electric-kettle-jc-200/",
-      "price": "₨ 15,000",
-      "inStock": true
-    },
-    {
       "id": 9334,
       "name": "HAIER REFRIGERATOR HRF-276",
       "url": "https://buy2day.pk/product/haier-refrigerator-hrf-276/",
@@ -2162,7 +2155,7 @@
       "id": 8619,
       "name": "Panasonic Electric Kettle K101",
       "url": "https://buy2day.pk/product/panasonic-electric-kettle-k101/",
-      "price": "₨ 14,000",
+      "price": "₨ 15,000",
       "inStock": true
     },
     {
