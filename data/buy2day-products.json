@@ -539,7 +539,7 @@
       "name": "Philips Garment Steamer Iron STE1020",
       "url": "https://buy2day.pk/product/philips-garment-steamer-iron-ste1020/",
       "price": "₨ 28,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 108808,
@@ -1309,7 +1309,7 @@
       "name": "HAIER Microwave Oven 20MXP8/P6/P7/MBX",
       "url": "https://buy2day.pk/product/haier-microwave-oven-20mxp8-p6-mbx/",
       "price": "₨ 24,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 58840,
@@ -1708,7 +1708,7 @@
       "name": "Remington Hair Straightener Keratin Protect S8540",
       "url": "https://buy2day.pk/product/remington-hair-straightener-keratin-protect-s8540/",
       "price": "₨ 19,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 26028,
