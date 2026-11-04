@@ -1,6 +1,6 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 387,
+  "total": 386,
   "products": [
     {
       "id": 114880,
@@ -273,7 +273,7 @@
       "name": "Philips Digital Air Fryer NA332",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-na323/",
       "price": "₨ 62,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 111652,
@@ -2414,13 +2414,6 @@
       "id": 4566,
       "name": "Alpina Cordless Kettle 1.5L 1850 W SF-809",
       "url": "https://buy2day.pk/product/alpina-alpina-cordless-kettle-1-5l-1850-w-sf-809/",
-      "price": "₨ 13,000",
-      "inStock": true
-    },
-    {
-      "id": 4565,
-      "name": "Black + Decker Citrus Juicer CJ675",
-      "url": "https://buy2day.pk/product/alpina-alpina-cordless-kettle-1-7l-2000-w-sf-806/",
       "price": "₨ 13,000",
       "inStock": true
     },
