@@ -14,7 +14,7 @@
       "name": "REMINGTON S9100 HAIR STRAIGHTENER PROLUXE",
       "url": "https://buy2day.pk/product/remington-s9100-hair-straightener-proluxe/",
       "price": "₨ 19,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114639,
@@ -70,7 +70,7 @@
       "name": "Remington Hair Straightener Keratin Protect S8598",
       "url": "https://buy2day.pk/product/remington-hair-straightener-keratin-protect-s8598/",
       "price": "₨ 19,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 113778,
@@ -231,14 +231,14 @@
       "name": "Braun MultiQuick 5 Pro MQ 55236 M",
       "url": "https://buy2day.pk/product/braun-multiquick-5-pro-mq-55236-m/",
       "price": "₨ 32,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 112194,
       "name": "Braun Food Processor FP3132",
       "url": "https://buy2day.pk/product/braun-food-processor-fp3132/",
       "price": "₨ 40,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 111998,
@@ -406,7 +406,7 @@
       "name": "Black & Decker Sandwich Maker 2 Slice TS1000",
       "url": "https://buy2day.pk/product/black-decker-sandwich-maker-2-slice-ts2080/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 109617,
@@ -868,7 +868,7 @@
       "name": "Panasonic Blender Grinder MG5321",
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx430/",
       "price": "₨ 24,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107255,
@@ -882,7 +882,7 @@
       "name": "Panasonic Blender Grinder CP3121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-cp3121/",
       "price": "₨ 21,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 107227,
@@ -959,7 +959,7 @@
       "name": "Black + Decker Blender Grinder BX530",
       "url": "https://buy2day.pk/product/black-decker-blender-grinder-bx530/",
       "price": "₨ 25,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 106597,
@@ -1134,7 +1134,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 26,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 105456,
@@ -1421,7 +1421,7 @@
       "name": "Braun Silk’Epil Soft Perfection Epilator, 3170",
       "url": "https://buy2day.pk/product/braun-silkepil-soft-perfection-epilator-3170/",
       "price": "₨ 13,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 58523,
@@ -1540,7 +1540,7 @@
       "name": "Panasonic Hand Blender Set MX SS40",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq7075/",
       "price": "₨ 28,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 28277,
@@ -1589,14 +1589,14 @@
       "name": "Braun, MultiPractic 3 Chopper CH 3011 / 3012 /3013",
       "url": "https://buy2day.pk/product/braun-multipractic-3-chopper-ch-3011/",
       "price": "₨ 23,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27562,
       "name": "Braun Power Blender Grinder JB-0123",
       "url": "https://buy2day.pk/product/braun-power-blender-grinder-jb-0123/",
       "price": "₨ 22,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27556,
@@ -1638,7 +1638,7 @@
       "name": "Braun MQ5235 Hand Blender Multiquick Vario",
       "url": "https://buy2day.pk/product/braun-mq5235-hand-blender-multiquick-vario/",
       "price": "₨ 25,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27153,
@@ -1771,7 +1771,7 @@
       "name": "Braun Hand Blender Multiquick 3 MQ3000",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135-2/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 25925,
@@ -1785,7 +1785,7 @@
       "name": "Braun Multiquick Hand Blender MQ3135",
       "url": "https://buy2day.pk/product/braun-multiquick-5-hand-blender-mq3135/",
       "price": "₨ 22,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 22832,
@@ -1848,7 +1848,7 @@
       "name": "Braun Shaver Series 3- Model 300 S",
       "url": "https://buy2day.pk/product/braun-series-1-shaver-130s/",
       "price": "₨ 18,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17150,
@@ -1897,7 +1897,7 @@
       "name": "Braun Hand Blender Set MQ3048",
       "url": "https://buy2day.pk/product/braun-hand-blender-set-mq3048/",
       "price": "₨ 31,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 11549,
@@ -2002,7 +2002,7 @@
       "name": "ELITE ESPRESSO MACHINE FULLY AUTOMATIC – EEM-020",
       "url": "https://buy2day.pk/product/elite-espresso-machine-fully-automatic-eem-020/",
       "price": "₨ 55,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 10243,
@@ -2205,7 +2205,7 @@
       "name": "Remington Hair Dryer D3010",
       "url": "https://buy2day.pk/product/remington-hair-dryer-d3010/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 8581,
@@ -2219,7 +2219,7 @@
       "name": "West Point Deluxe Sandwich Toaster WF-6696",
       "url": "https://buy2day.pk/product/west-point-new-model-sandwich-maker-steel-body-wf-6697/",
       "price": "₨ 14,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 5215,
@@ -2289,7 +2289,7 @@
       "name": "West Point Iron WF-635/635A",
       "url": "https://buy2day.pk/product/west-point-iron-wf-635-635a/",
       "price": "₨ 7,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5148,
@@ -2387,7 +2387,7 @@
       "name": "Braun MultiQuick 1 Hand Blender MQ100",
       "url": "https://buy2day.pk/product/braun-multiquick-1-mq-100-curry/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4570,
@@ -2401,7 +2401,7 @@
       "name": "Black + Decker Grinder CBM4",
       "url": "https://buy2day.pk/product/alpina-alpina-coffee-spice-grinder-white-90-w-sf-2813/",
       "price": "₨ 13,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4568,
@@ -2429,7 +2429,7 @@
       "name": "Alpina Dry Iron (Heavy Duty) 1000-1200W SF-2317",
       "url": "https://buy2day.pk/product/alpina-alpina-dry-iron-heavy-duty-1000-1200w-sf-2317/",
       "price": "₨ 11,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4533,
@@ -2464,7 +2464,7 @@
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
       "price": "₨ 16,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4522,
@@ -2541,7 +2541,7 @@
       "name": "Alpina Citrus Juicer with Bowl 40 W SF-3002",
       "url": "https://buy2day.pk/product/alpina-alpina-citrus-juicer-with-bowl-40-w-sf-3002/",
       "price": "₨ 11,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4478,
