@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 386,
+  "total": 387,
   "products": [
+    {
+      "id": 115101,
+      "name": "West Point Oven toaster ,Kabab,rotisserie and  Grill WF-7500 (Only Karachi Delivery)",
+      "url": "https://buy2day.pk/product/west-point-oven-toaster-kababrotisserie-and-grill-wf-7500-only-karachi-delivery/",
+      "price": "₨ 47,000",
+      "inStock": true
+    },
     {
       "id": 114880,
       "name": "DELONGHI COFFEE MAKER EC685.BK",
@@ -1421,7 +1428,7 @@
       "name": "Braun Silk’Epil Soft Perfection Epilator, 3170",
       "url": "https://buy2day.pk/product/braun-silkepil-soft-perfection-epilator-3170/",
       "price": "₨ 13,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 58523,
