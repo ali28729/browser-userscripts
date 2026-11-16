@@ -63,7 +63,7 @@
       "name": "Hugo Boss Bottled EDT 100ml",
       "url": "https://buy2day.pk/product/hugo-boss-bottled-edt-100ml/",
       "price": "₨ 18,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 114390,
@@ -2485,7 +2485,7 @@
       "name": "Black + Decker Blender Grinder BX600G",
       "url": "https://buy2day.pk/product/alpina-alpina-belgian-waffle-maker-1000w-sf-2611/",
       "price": "₨ 26,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4517,
@@ -2708,7 +2708,7 @@
       "id": 1575,
       "name": "Philips Citrus Juicer HR2738/00",
       "url": "https://buy2day.pk/product/philips-citrus-juicer-hr2738-00/",
-      "price": "₨ 10,000",
+      "price": "₨ 12,000",
       "inStock": true
     }
   ]
