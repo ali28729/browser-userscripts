@@ -1141,7 +1141,7 @@
       "name": "Philips Air Fryer NA110 Black",
       "url": "https://buy2day.pk/product/philips-air-fryer-na110-black/",
       "price": "₨ 26,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 105456,
@@ -1924,14 +1924,14 @@
       "id": 11486,
       "name": "Kaliz Facial Steamer – 3 in 1",
       "url": "https://buy2day.pk/product/kaliz-facial-steamer-3-in-1/",
-      "price": "₨ 2,250",
+      "price": "₨ 2,500",
       "inStock": true
     },
     {
       "id": 11484,
       "name": "Kaliz Facial Steamer – 4 in 1",
       "url": "https://buy2day.pk/product/kaliz-facial-steamer-4-in-1/",
-      "price": "₨ 2,500",
+      "price": "₨ 2,800",
       "inStock": true
     },
     {
@@ -2471,7 +2471,7 @@
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
       "price": "₨ 16,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4522,
@@ -2709,7 +2709,7 @@
       "name": "Philips Citrus Juicer HR2738/00",
       "url": "https://buy2day.pk/product/philips-citrus-juicer-hr2738-00/",
       "price": "₨ 12,000",
-      "inStock": true
+      "inStock": false
     }
   ]
 }
