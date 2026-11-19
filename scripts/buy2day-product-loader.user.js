@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Buy2Day Product Loader
 // @namespace    https://github.com/ali28729/browser-userscripts
-// @version      1.3.0
-// @description  Load all eligible in-stock products from Buy2Day — excludes installment-only items, uses discounted price for sale items.
+// @version      1.4.0
+// @description  Load consistent, in-stock wishlist matches from Buy2Day, ranked by category and price.
 // @match        https://buy2day.pk/product-category/rewards-points-products/*
 // @match        https://www.buy2day.pk/product-category/rewards-points-products/*
 // @match        https://buy2day.pk/shop/*
@@ -12,6 +12,110 @@
 // @updateURL    https://raw.githubusercontent.com/ali28729/browser-userscripts/main/scripts/buy2day-product-loader.user.js
 // @downloadURL  https://raw.githubusercontent.com/ali28729/browser-userscripts/main/scripts/buy2day-product-loader.user.js
 // ==/UserScript==
+
+// BEGIN GENERATED BUY2DAY POLICY
+/* global module */
+// Shared by Node and the generated userscript block. Edit here, then run sync.
+(function (root) {
+  const policy = {
+    // Editable defaults inferred from recent shopping; no unconfirmed price ceiling.
+    categories: [
+      { name: "Induction cookers", pattern: "\\binduction\\b", priority: 2 },
+      {
+        name: "Heaters",
+        pattern: "\\b(?:room heater|fan heater|oil filled|oil heater|convector|ceramic heater)\\b",
+        priority: 1,
+      },
+    ],
+    blocked:
+      "\\b(?:installments?|coffee|espresso|straightener|chopper|blender|waffle|hair dryer|water heater|geyser)\\b",
+  };
+  const words = (s) =>
+    String(s || "")
+      .toLowerCase()
+      .replace(/&(?:amp|nbsp);/g, " ")
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim()
+      .split(/\s+/);
+  const tokens = (s) => words(s).flatMap((w) => w.match(/[a-z]+|[0-9]+/g) || []);
+  const models = (s) => words(s).filter((w) => /\d/.test(w));
+  function canonical(url) {
+    try {
+      const u = new URL(url);
+      if (
+        u.protocol !== "https:" ||
+        !["buy2day.pk", "www.buy2day.pk"].includes(u.hostname) ||
+        !/^\/product\/[^/]+\/?$/.test(u.pathname)
+      )
+        return null;
+      return `https://buy2day.pk${u.pathname.replace(/\/$/, "")}/`;
+    } catch {
+      return null;
+    }
+  }
+  function evaluate(p) {
+    const url = canonical(p.url);
+    if (!url) return { reason: "invalid product URL" };
+    const slug = decodeURIComponent(new URL(url).pathname.split("/")[2]);
+    const a = new Set(tokens(p.name));
+    const b = new Set(tokens(slug));
+    const overlap = [...a].filter((t) => b.has(t)).length / Math.max(a.size, b.size, 1);
+    // Model digit sequences must agree too: catches NA130 vs HD130 conservatively.
+    const modelName = models(p.name).join("");
+    const modelSlug = models(slug).join("");
+    if (overlap < 0.75 || (modelName && modelSlug && modelName !== modelSlug))
+      return { reason: "name/URL mismatch" };
+    if (new RegExp(policy.blocked, "i").test(`${p.name} ${p.description || ""} ${slug}`))
+      return { reason: "blocked category" };
+    const category = policy.categories.find(
+      (c) =>
+        new RegExp(c.pattern, "i").test(p.name) &&
+        new RegExp(c.pattern, "i").test(slug.replace(/-/g, " ")),
+    );
+    if (!category) return { reason: "outside wishlist" };
+    if (!p.inStock) return { reason: "out of stock" };
+    return { category: category.name, priority: category.priority, url };
+  }
+  function duplicate(a, b) {
+    if (a.id === b.id || canonical(a.url) === canonical(b.url)) return true;
+    const x = new Set(words(a.name));
+    const y = new Set(words(b.name));
+    if (models(a.name).join("") !== models(b.name).join("")) return false;
+    const intersection = [...x].filter((t) => y.has(t)).length;
+    return intersection / (x.size + y.size - intersection || 1) >= 0.85;
+  }
+  function select(products, previous = []) {
+    const rejected = [];
+    const candidates = [];
+    for (const p of products) {
+      let result;
+      try {
+        result = evaluate(p);
+      } catch {
+        result = { reason: "invalid product URL" };
+      }
+      if (result.reason) rejected.push({ ...p, reason: result.reason });
+      else candidates.push({ ...p, ...result });
+    }
+    candidates.sort(
+      (a, b) =>
+        b.priority - a.priority ||
+        (Number.isFinite(a.amount) ? a.amount : Infinity) -
+          (Number.isFinite(b.amount) ? b.amount : Infinity) ||
+        a.name.localeCompare(b.name) ||
+        String(a.id).localeCompare(String(b.id)),
+    );
+    const matches = [];
+    for (const p of candidates) {
+      if ([...previous, ...matches].some((old) => duplicate(p, old)))
+        rejected.push({ ...p, reason: "duplicate or previously seen" });
+      else matches.push(p);
+    }
+    return { matches, rejected };
+  }
+  root.Buy2DayPolicy = { policy, select, evaluate, duplicate, canonical };
+})(typeof module === "object" ? module.exports : globalThis);
+// END GENERATED BUY2DAY POLICY
 
 (() => {
   "use strict";
@@ -25,7 +129,7 @@
   const DEFAULT_ORDERBY = "menu_order";
   const DEFAULT_CLIENT_SORT = "server";
   const CLIENT_SORT_OPTIONS = [
-    { value: "server", label: "Catalog order" },
+    { value: "server", label: "Wishlist priority, then price" },
     { value: "price-asc", label: "Price: low to high" },
     { value: "price-desc", label: "Price: high to low" },
     { value: "name-asc", label: "Name: A-Z" },
@@ -126,11 +230,22 @@
   function parseEligibleProducts(pages) {
     const parser = new DOMParser();
 
-    return pages.flatMap((html) => {
+    const nodes = pages.flatMap((html) => {
       const doc = parser.parseFromString(html, "text/html");
 
       return Array.from(doc.querySelectorAll("li.product")).filter(isEligibleProduct);
     });
+    const products = nodes.map((node, index) => ({
+      id: node.querySelector("[data-product_id]")?.dataset.product_id || `node-${index}`,
+      name: getProductName(node),
+      url:
+        node.querySelector("a.woocommerce-LoopProduct-link, a.woocommerce-loop-product__link")
+          ?.href || "",
+      amount: getProductPrice(node) || null,
+      inStock: true,
+      node,
+    }));
+    return globalThis.Buy2DayPolicy.select(products).matches.map((p) => p.node);
   }
 
   function isEligibleProduct(product) {
@@ -617,7 +732,7 @@
     const button = document.createElement("button");
     button.id = BUTTON_ID;
     button.type = "button";
-    button.textContent = "Load Eligible Products";
+    button.textContent = "Load Wishlist Matches";
 
     button.addEventListener("click", async () => {
       button.disabled = true;
@@ -626,7 +741,7 @@
       try {
         await loadProducts();
       } finally {
-        button.textContent = "Load Eligible Products";
+        button.textContent = "Load Wishlist Matches";
         button.disabled = false;
       }
     });
