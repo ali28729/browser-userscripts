@@ -1,7 +1,14 @@
 {
   "source": "https://buy2day.pk/shop/",
-  "total": 387,
+  "total": 388,
   "products": [
+    {
+      "id": 115282,
+      "name": "REMINGTON S9505 HAIR STRAIGHTENER ROSE PEARL",
+      "url": "https://buy2day.pk/product/remington-s9505-hair-straightener-rose-pearl/",
+      "price": "₨ 24,000",
+      "inStock": true
+    },
     {
       "id": 115101,
       "name": "West Point Oven toaster ,Kabab,rotisserie and  Grill WF-7500 (Only Karachi Delivery)",
@@ -21,7 +28,7 @@
       "name": "REMINGTON S9100 HAIR STRAIGHTENER PROLUXE",
       "url": "https://buy2day.pk/product/remington-s9100-hair-straightener-proluxe/",
       "price": "₨ 19,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 114639,
@@ -91,7 +98,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1253",
       "url": "https://buy2day.pk/product/west-point-professional-handy-garment-steamer-wf-1253/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 113462,
@@ -203,7 +210,7 @@
       "name": "West Point Stand Mixer WF-4626",
       "url": "https://buy2day.pk/product/west-point-stand-mixer-wf-4626/",
       "price": "₨ 29,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 112466,
@@ -279,7 +286,7 @@
       "id": 111699,
       "name": "Philips Digital Air Fryer NA332",
       "url": "https://buy2day.pk/product/philips-digital-air-fryer-na323/",
-      "price": "₨ 62,000",
+      "price": "₨ 63,000",
       "inStock": false
     },
     {
@@ -454,8 +461,8 @@
       "id": 109209,
       "name": "Kenwood Juicer – JEP-02",
       "url": "https://buy2day.pk/product/kenwood-juicer-jep-02/",
-      "price": "₨ 25,500",
-      "inStock": false
+      "price": "₨ 28,500",
+      "inStock": true
     },
     {
       "id": 109207,
@@ -469,7 +476,7 @@
       "name": "Kenwood Hard Fruit Juicer JEM-51",
       "url": "https://buy2day.pk/product/kenwood-hard-fruit-juicer-jem-51/",
       "price": "₨ 38,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 109148,
@@ -531,8 +538,8 @@
       "id": 108814,
       "name": "Panasonic Blender Grinder 5121",
       "url": "https://buy2day.pk/product/panasonic-blender-grinder-5121/",
-      "price": "₨ 21,000",
-      "inStock": false
+      "price": "₨ 22,000",
+      "inStock": true
     },
     {
       "id": 108812,
@@ -780,13 +787,6 @@
       "inStock": true
     },
     {
-      "id": 108493,
-      "name": "DAWLANCE- Water Dispenser -WD-1060 SILVER",
-      "url": "https://buy2day.pk/product/dawlance-water-dispenser-wd-1060-silver/",
-      "price": "₨ 50,000",
-      "inStock": true
-    },
-    {
       "id": 108474,
       "name": "Dawlance Water Dispenser Glass Door RED 1051",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-glass-door-red-1051/",
@@ -994,7 +994,7 @@
       "name": "Dawlance Water Dispenser 1060 Silver With Refrigerator",
       "url": "https://buy2day.pk/product/dawlance-water-dispenser-1060-silver-with-refrigerator/",
       "price": "₨ 50,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 106029,
@@ -1190,7 +1190,7 @@
       "name": "ELITE GARMENT STEAMER EGS-400 – RED",
       "url": "https://buy2day.pk/product/elite-garment-steamer-egs-400-red/",
       "price": "₨ 22,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 59609,
@@ -1309,7 +1309,7 @@
       "name": "HAIER Micrwave Oven 25MXP8/P9",
       "url": "https://buy2day.pk/product/haier-micrwave-oven-25mxp8/",
       "price": "₨ 31,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 58841,
@@ -1428,7 +1428,7 @@
       "name": "Braun Silk’Epil Soft Perfection Epilator, 3170",
       "url": "https://buy2day.pk/product/braun-silkepil-soft-perfection-epilator-3170/",
       "price": "₨ 13,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 58523,
@@ -1470,7 +1470,7 @@
       "name": "Black + Decker Coffee Maker DCM 80",
       "url": "https://buy2day.pk/product/black-decker-coffee-maker-dcm-80/",
       "price": "₨ 23,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 50798,
@@ -1603,7 +1603,7 @@
       "name": "Braun Power Blender Grinder JB-0123",
       "url": "https://buy2day.pk/product/braun-power-blender-grinder-jb-0123/",
       "price": "₨ 22,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27556,
@@ -1645,7 +1645,7 @@
       "name": "Braun MQ5235 Hand Blender Multiquick Vario",
       "url": "https://buy2day.pk/product/braun-mq5235-hand-blender-multiquick-vario/",
       "price": "₨ 25,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 27153,
@@ -1659,6 +1659,13 @@
       "name": "TCL LED 50 inch Model 50C655",
       "url": "https://buy2day.pk/product/tcl-led-50-inch-model-50p645/",
       "price": "₨ 167,000",
+      "inStock": true
+    },
+    {
+      "id": 26862,
+      "name": "West Point Ceramic Cooker WF-142",
+      "url": "https://buy2day.pk/product/west-point-deluxe-ceramic-cooker-wf-142/",
+      "price": "₨ 20,000",
       "inStock": true
     },
     {
@@ -1719,10 +1726,10 @@
     },
     {
       "id": 26028,
-      "name": "Remington Hair Straightener S6500",
+      "name": "REMINGTON S8500 HAIR STRAIGHTENER SHINE THERAPY",
       "url": "https://buy2day.pk/product/remington-hair-straightener-s6500/",
-      "price": "₨ 16,500",
-      "inStock": false
+      "price": "₨ 18,500",
+      "inStock": true
     },
     {
       "id": 26004,
@@ -1820,7 +1827,7 @@
       "name": "Braun MultiQuick 7 Hand blender MQ 7045",
       "url": "https://buy2day.pk/product/braun-multiquick-7-hand-blender-mq7085/",
       "price": "₨ 35,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17377,
@@ -1855,7 +1862,7 @@
       "name": "Braun Shaver Series 3- Model 300 S",
       "url": "https://buy2day.pk/product/braun-series-1-shaver-130s/",
       "price": "₨ 18,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 17150,
@@ -2373,7 +2380,7 @@
       "name": "West Point Professional Handy Garment Steamer WF-1353",
       "url": "https://buy2day.pk/product/west-point-chopper-wf-1044-1046/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4894,
@@ -2422,7 +2429,7 @@
       "name": "Alpina Cordless Kettle 1.5L 1850 W SF-809",
       "url": "https://buy2day.pk/product/alpina-alpina-cordless-kettle-1-5l-1850-w-sf-809/",
       "price": "₨ 13,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4563,
@@ -2443,7 +2450,7 @@
       "name": "Alpina Alpina Full Function Steam Iron (Auto Shut-off) SF-1304",
       "url": "https://buy2day.pk/product/alpina-alpina-full-function-steam-iron-auto-shut-off-sf-1304/",
       "price": "₨ 12,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4532,
@@ -2457,7 +2464,7 @@
       "name": "Alpina Alpina Travel Iron SF-1307",
       "url": "https://buy2day.pk/product/alpina-alpina-travel-iron-830watts-sf-1307/",
       "price": "₨ 12,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4525,
@@ -2471,7 +2478,7 @@
       "name": "Alpina Single hot plate 1500W SF-6002",
       "url": "https://buy2day.pk/product/alpina-alpina-single-hot-plate-1500w-sf-6002/",
       "price": "₨ 16,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4522,
@@ -2485,7 +2492,7 @@
       "name": "Black + Decker Blender Grinder BX600G",
       "url": "https://buy2day.pk/product/alpina-alpina-belgian-waffle-maker-1000w-sf-2611/",
       "price": "₨ 26,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4517,
@@ -2499,7 +2506,7 @@
       "name": "Alpina Alpina S.S Deep Fryer 3.1 Ltr 2000W SF-4003",
       "url": "https://buy2day.pk/product/alpina-alpina-s-s-deep-fryer-3-1-ltr-2000w-sf-4003/",
       "price": "₨ 26,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4511,
@@ -2520,14 +2527,14 @@
       "name": "Alpina Alpina Cool Touch 2 Slice Toaster 800W SF-2506",
       "url": "https://buy2day.pk/product/alpina-alpina-cool-touch-2-slice-toaster-800w-sf-2506/",
       "price": "₨ 14,000",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4502,
       "name": "Moulinex Chopper DPA-141/144",
       "url": "https://buy2day.pk/product/alpina-alpina-2-slice-cool-touch-toaster-1000-w-sf-2501/",
       "price": "₨ 25,000",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 4494,
@@ -2667,7 +2674,7 @@
       "name": "Philips Steam Iron GC1742/40",
       "url": "https://buy2day.pk/product/philips-steam-iron-gc1742-40/",
       "price": "₨ 15,500",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 1626,

@@ -1,3 +1,4 @@
-# No New Buy2Day Products
+# 2 New Buy2Day Products
 
-Checked 387 eligible products in the shop.
+- [REMINGTON S9505 HAIR STRAIGHTENER ROSE PEARL](https://buy2day.pk/product/remington-s9505-hair-straightener-rose-pearl/) - ₨ 24,000 (in stock)
+- [West Point Ceramic Cooker WF-142](https://buy2day.pk/product/west-point-deluxe-ceramic-cooker-wf-142/) - ₨ 20,000 (in stock)
