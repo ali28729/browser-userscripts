@@ -392,7 +392,7 @@
       "name": "West Point  Kitchen Chef WF-5806",
       "url": "https://buy2day.pk/product/west-point-deluxe-kitchen-robot-slicer-shredder-chopper-wf-500/",
       "price": "₨ 23,800",
-      "inStock": false
+      "inStock": true
     },
     {
       "id": 110166,
@@ -413,7 +413,7 @@
       "name": "West Point Inset Killer WF-7112 (Only for Karachi Delivery)",
       "url": "https://buy2day.pk/product/west-point-inset-killer-wf-7112-only-for-karachi-delivery/",
       "price": "₨ 13,500",
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 109749,
@@ -2281,8 +2281,8 @@
       "id": 5179,
       "name": "West Point Hard fruit juicer WF-5160",
       "url": "https://buy2day.pk/product/west-point-hard-fruit-juicer-wf-5020/",
-      "price": "₨ 14,700",
-      "inStock": false
+      "price": "₨ 15,700",
+      "inStock": true
     },
     {
       "id": 5162,
