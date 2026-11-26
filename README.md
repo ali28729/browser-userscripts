@@ -61,7 +61,7 @@ Shortcut:
 
 ## Buy2Day Product Notifications
 
-This repo includes a free GitHub Actions watcher for new Buy2Day rewards products.
+This repo includes a free GitHub Actions watcher for new Buy2Day wishlist matches. See [policy, ranking and migration details](tools/BUY2DAY-WISHLIST.md).
 
 Files:
 
@@ -73,9 +73,9 @@ Files:
 How it works:
 
 1. GitHub Actions runs the watcher daily at `05:23 UTC`, or manually from the Actions tab.
-2. The checker reads Buy2Day's public WooCommerce Store API for all visible shop products, excluding installment-only items.
+2. The checker reads Buy2Day's public WooCommerce Store API for all visible shop products and retains the complete catalog snapshot.
 3. It compares the current product IDs to `data/buy2day-products.json`.
-4. If new products are found, the workflow opens a GitHub Issue listing them.
+4. New records pass a shared wishlist policy, identity validation and deduplication. Only in-stock matches open a ranked GitHub Issue; rejected records remain in the job summary.
 5. The workflow commits the updated snapshot so the next run only reports products added after that point.
 
 Email notification setup:

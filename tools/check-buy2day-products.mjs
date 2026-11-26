@@ -1,3 +1,5 @@
+import policyModule from "./buy2day-policy.cjs";
+const { select } = policyModule.Buy2DayPolicy;
 import fs from "node:fs/promises";
 import path from "node:path";
 
@@ -25,11 +27,12 @@ await writeJson(statePath, {
   products: currentProducts,
 });
 
-const summary = buildSummary({ currentProducts, newProducts, isInitialRun });
+const { matches, rejected } = select(newProducts, previousProducts);
+const summary = buildSummary({ currentProducts, newProducts: matches, rejected, isInitialRun });
 await writeText(summaryPath, summary);
 await writeGitHubOutputs({
   isInitialRun,
-  newCount: newProducts.length,
+  newCount: matches.length,
   summaryPath,
 });
 
@@ -70,15 +73,10 @@ async function fetchProducts() {
     const { data, response } = await fetchJsonWithResponse(url);
     totalPages = Number.parseInt(response.headers.get("x-wp-totalpages") || "1", 10);
 
-    products.push(...data.filter(isEligibleApiProduct).map(normalizeProduct));
+    products.push(...data.map(normalizeProduct));
   }
 
   return products;
-}
-
-function isEligibleApiProduct(product) {
-  const text = [product.name, stripHtml(product.short_description || "")].join(" ").toLowerCase();
-  return !text.includes("installment");
 }
 
 function stripHtml(html) {
@@ -112,6 +110,10 @@ function normalizeProduct(product) {
     name: decodeHtml(product.name || ""),
     url: product.permalink,
     price: formatPrice(product.prices),
+    amount: product.prices?.price
+      ? Number(product.prices.price) / 10 ** Number(product.prices.currency_minor_unit || 0)
+      : null,
+    description: stripHtml(decodeHtml(product.short_description || "")),
     inStock: Boolean(product.is_in_stock),
   };
 }
@@ -156,35 +158,35 @@ function decodeHtml(value) {
   });
 }
 
-function buildSummary({ currentProducts, newProducts, isInitialRun }) {
-  if (isInitialRun) {
-    return [
-      "# Buy2Day Product Snapshot Initialized",
-      "",
-      `Tracked ${currentProducts.length} eligible products from the shop.`,
-      "Future scheduled runs will open an issue when new products appear.",
-    ].join("\n");
-  }
-
-  if (newProducts.length === 0) {
-    return [
-      "# No New Buy2Day Products",
-      "",
-      `Checked ${currentProducts.length} eligible products in the shop.`,
-    ].join("\n");
-  }
-
-  const productLines = newProducts.map((product) => {
-    const stockText = product.inStock ? "in stock" : "out of stock";
-    const priceText = product.price ? ` - ${product.price}` : "";
-
-    return `- [${product.name}](${product.url})${priceText} (${stockText})`;
-  });
-
+function buildSummary({ currentProducts, newProducts, rejected, isInitialRun }) {
+  const escape = (value) =>
+    String(value)
+      .replace(/[\\`*_[\]<>|]/g, " ")
+      .replace(/[\r\n]+/g, " ");
+  const counts = {};
+  for (const p of rejected) counts[p.reason] = (counts[p.reason] || 0) + 1;
   return [
-    `# ${newProducts.length} New Buy2Day Product${newProducts.length === 1 ? "" : "s"}`,
+    `# Buy2Day: ${newProducts.length} new wishlist matches`,
     "",
-    ...productLines,
+    isInitialRun ? "Baseline initialized; no alerts on the first run." : "## Best matches first",
+    ...newProducts.map(
+      (p, i) =>
+        `${i + 1}. [${escape(p.name)}](${p.url}) — ${escape(p.price || "price unavailable")} — in stock\n   Matched: ${p.category}; category priority ${p.priority}, then lowest known price. Product ID: ${p.id}.`,
+    ),
+    "",
+    `Checked ${currentProducts.length} catalog records. Wishlist defaults: induction cookers and room heaters. No price ceiling configured.`,
+    "",
+    "## Suppressed records",
+    ...Object.entries(counts).map(([reason, count]) => `- ${reason}: ${count}`),
+    "",
+    "<details><summary>Data quality review (untrusted links withheld)</summary>",
+    "",
+    ...rejected
+      .filter((p) => /mismatch|invalid/.test(p.reason))
+      .slice(0, 20)
+      .map((p) => `- ID ${p.id}: ${escape(p.name)} — ${p.reason}`),
+    "",
+    "</details>",
   ].join("\n");
 }
 
